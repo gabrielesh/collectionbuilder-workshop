@@ -2,5 +2,6 @@
 
 
 table {
-    border: solid 4px;
+    @extend %table;
+    @extend %table-bordered;
 }
