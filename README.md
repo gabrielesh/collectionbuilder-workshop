@@ -1,3 +1,8 @@
+# Digital Collections & Storytelling with CollectionBuilder
+
+This repostiory will soon contain lesson plans, materials, and videos associated with a CollectionBuilder workshop held at the University of Oregon Libraries DREAM Lab. Our goal is to include all of the information you will need to offer this workshop at your own institution. 
+
+
 # to do list
 
 this documentation is a work in progress. 
@@ -32,13 +37,6 @@ this documentation is a work in progress.
 - Get on calendar (Kate's student if posted to DREAM Lab)
 - Get on UIdaho calendar (Gabriele will reach out to Olivia)
 - Send targeted mail merge emails to faculty (Gabriele
-    
 
-
-## workshop-template-s
-
-**project not finished!**
-
-Jekyll template for a simple workshop website with a sidebar using Bootstrap 5.
 
 Theme partly based on [Simple Sidebar by Start Bootstrap](https://github.com/startbootstrap/startbootstrap-simple-sidebar) and [workshop-template-b by evanwill](https://github.com/evanwill/workshop-template-b).
