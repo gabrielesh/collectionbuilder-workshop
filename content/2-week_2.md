@@ -24,7 +24,7 @@ In this workshop series you will learn how to create a website displaying a digi
 | Learning Objectives | Aligned Assessments |
 | ------------------- | -------------------- |
 | By the end of this class, you will be able to | By the end of class, participants will have |
-|1. Use Markdown to create web content 2. Describe how Jekyll converts Markdown to HTML  | 1. Practiced writing Markdown in dillinger.io and explored the HTML created from it. 2. Created or modified a Markdown page in their demo project. |
+|1. Use Markdown to create web content <br>2. Describe how Jekyll converts Markdown to HTML  | 1. Practiced writing Markdown in dillinger.io and explored the HTML created from it. <br>2. Created or modified a Markdown page in their demo project. |
 
 ----------
 ## ALIGNED STANDARDS/FRAMEWORK
@@ -35,8 +35,8 @@ ISTE 1.6b, “Students create original works or responsibly repurpose or remix d
 ## RESOURCES
 | Resource Type | Links & Materials|
 | --------------- | ---------------- |
-| Instructor Materials   | - Internet-connected computer, ideally with video camera. - Zoom account or other virtual meeting tool that has web conferencing features for chat, audio, and video.    |
-| Learner Materials      | - Internet-connected computer, ideally with video camera. - Zoom account or other virtual meeting tool that has web conferencing features for chat, audio, and video. - Email account for creating GitHub account during in the session. |
+| Instructor Materials   | - Internet-connected computer, ideally with video camera. - Zoom account or other virtual meeting tool that has web conferencing features for chat, audio, and video. |
+| Learner Materials | - Internet-connected computer, ideally with video camera. - Zoom account or other virtual meeting tool that has web conferencing features for chat, audio, and video. - Email account for creating GitHub account during in the session. |
 | Supplemental Materials |  Learn-Static asynchronous tutorials on [HTML](https://github.com/learn-static/foundations-1-html) and [Markdown](https://github.com/learn-static/foundations-2-markdown) |
 
 ## LEARNING SEQUENCE OUTLINE
@@ -46,7 +46,7 @@ ISTE 1.6b, “Students create original works or responsibly repurpose or remix d
 
 **During Class**
 
-| Estimated time | Topic/Material Covered | Activity/Delivery Method     |
+| Estimated time | Topic/Material Covered | Activity/Delivery Method |
 | -------------- | --------------- | ----------- |
 | 1. 5 minutes   | Icebreaker   |         |
 | 2. 10 minutes   | Workshop Overview | 1. Review website structure, Markdown content <br>2. Introduce dillinger.io as a place to explore Markdown -> HTML  |
