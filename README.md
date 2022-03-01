@@ -19,6 +19,16 @@
     - re-evaluate to do
 - All lessons
     - proofread, evaluate for style
+- Make videos
+    - Video versions of the 5 asynchronous lessons? (Gabriele)
+    - Live recording of workshop sequence training for next term.
+ 
+## Schedule workshops
+    - Check in with Mattie (Kate)
+    - Get on calendar (Kate's student if posted to DREAM Lab)
+    - Get on UIdaho calendar (Gabriele will reach out to Olivia)
+    - Send targeted mail merge emails to faculty (Gabriele
+    
 
 
 ## workshop-template-s
