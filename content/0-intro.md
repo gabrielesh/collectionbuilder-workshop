@@ -5,4 +5,6 @@ permalink: /about.html
 order: 0
 ---
 
-This site is a test before creating CB workshop documentation
+## How to use this repo
+
+This repository contains lesson plans and materials.
