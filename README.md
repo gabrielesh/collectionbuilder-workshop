@@ -4,6 +4,7 @@ this documentation is a work in progress.
 
 ## To do, in this documents repo:
 - fix scss custom stylings to impove table layouts: 
+    - review how these variables work in scss
     - add borders and padding
 - add UOregon branding/icon image and connect
 - add a "table of contents" and links to anchors at headings for Lesson 1, where the workshop is broken up into three smaller lesson plans.
@@ -23,10 +24,10 @@ this documentation is a work in progress.
 - All lessons
     - proofread, evaluate for style by 3/27
 - Make videos
-    - Video versions of the 5 asynchronous lessons? (Gabriele)
-    - Live recording of workshop sequence training for next term.
+    - Video versions of the 5 asynchronous lessons? (Gabriele). If so, complete by the convening.
+    - Live recording of workshop sequence training for next term. (Finish editing by 1 week after workshops end)
     
-## Schedule workshops
+## Schedule Spring 2022 workshops
 - Check in with Mattie (Kate)
 - Get on calendar (Kate's student if posted to DREAM Lab)
 - Get on UIdaho calendar (Gabriele will reach out to Olivia)
