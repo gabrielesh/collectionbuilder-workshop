@@ -1,5 +1,5 @@
 ---
-title: Week 1 Building a Digital Archive using CollectionBuilder
+title: Week 1&#58; Building a Digital Archive using CollectionBuilder
 nav: Week 1
 permalink: /week1.html
 topics: 
@@ -109,8 +109,6 @@ LEARNING SEQUENCE OUTLINE
 
 
 **After Class**
-
-After Class
 
 Students will be directed via a follow-up email to [Learn-Static resources](https://github.com/learn-static) and to [CollectionBuilder documentation](https://collectionbuilder.github.io/gh/) on how to create and deploy their website, with particular emphasis on how to [create image files](https://collectionbuilder.github.io/cb-docs/docs/objects/gh-objects/) and [accompanying metadata](https://collectionbuilder.github.io/cb-docs/docs/metadata/gh_metadata/).
 
