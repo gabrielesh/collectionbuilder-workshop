@@ -45,14 +45,6 @@ Students choose the appropriate platforms and tools for meeting the desired obje
 
 ----------
 
-RESOURCES
-
-| Resource Type          | Links & Materials  |
-| ---------------------- | ------------------------------ |
-| Instructor Materials   | - Internet-connected computer, ideally with video camera. - Zoom account or other virtual meeting tool that has web conferencing features for chat, audio, and video. - Workshop Site |
-| Learner Materials      | - Zoom account or other virtual meeting tool that has web conferencing features for chat, audio, and video - Workshop Site: Materials related to this lesson are available on this site |
-| Supplemental Materials | None   |
-
 LEARNING SEQUENCE OUTLINE
 
 | Estimated time | Topic/Material Covered   | Activity/Delivery Method   |
@@ -89,13 +81,13 @@ LEARNING SEQUENCE OUTLINE
 
 ----------
 
-## Lesson 3 of 3
+## Lesson 3 of 3. CollectionBuilder-gh Demo Project (50 minutes)
 **Learning Objectives and Aligned Assessments**
 
 | Learning Objectives | Aligned Assessments |
 | --------------- | ----------------- |
 | By the end of this class, you will be able to   | By the end of class, participants will have  |
-|  |  |
+| 1. identify the elements of a CollectionBuilder-gh project that control images and image descriptions (digital objects and their metadata). 2. use Google Sheets or another spreadsheet editing software to make basic edits to an existing spreadsheet.| 1. created and deployed a demo CollectionBuilder-gh project <br> 2. edited project metadata, images, and configuration files to customize their project |
 
 ----------
 ALIGNED STANDARDS/FRAMEWORK
@@ -109,10 +101,10 @@ LEARNING SEQUENCE OUTLINE
 | Estimated time | Topic/Material Covered | Activity/Delivery Method |
 | -------------- | ----- | ------------------- |
 | 1. 5 minutes   | Transition or quick break  |   |
-| 2. 5 minutes   | Make your own CollectionBuilder template and display it as a website           | 1. Start new project by creating a copy of the code on GitHub by clicking the “Use this Template” button, [https://github.com/CollectionBuilder/collectionbuilder-gh](https://github.com/CollectionBuilder/collectionbuilder-gh) <br>2. Enable GitHub pages, and add a link to your newly enabled page to the “about” part of your website.  <br> 3. Configure your website in the _config.yml file in your new repository. Update URL Variables and Site Settings sections for your new project|
-| 3. 5 minutes  | How does this website know what images to display, and how can we change them? | Lecture: brief overview of the contents of the repository, clicking through.<br><br>- README.md - notice link to instructions for using this template<br>- _config.yml - notice that this controls elements of the site at a high level<br>- _data folder - note the demo-metadata.csv file referenced in _config.yml<br>- docs folder - instructions for using various parts of the website<br>- objects folder - note the images, which correspond to the names in the metadata.csv and to the images on the website, and the readme.md file with instructions on adding images to your project<br>- pages folder - note that the markdown pages here are not the final pages served by Jekyll. Rather, they instruct Jekyll on how to create the final html pages served by GitHub pages. Compare right click “view page source” image of html to the md file. |
+| 2. 5 minutes   | Make your own CollectionBuilder template and display it as a website   | 1. Start new project by creating a copy of the code on GitHub by clicking the “Use this Template” button, [https://github.com/CollectionBuilder/collectionbuilder-gh](https://github.com/CollectionBuilder/collectionbuilder-gh) <br>2. Enable GitHub pages, and add a link to your newly enabled page to the “about” part of your website.  <br> 3. Configure your website in the _config.yml file in your new repository. Update URL Variables and Site Settings sections for your new project|
+| 3. 5 minutes  | How does this website know what images to display, and how can we change them? | Lecture: brief overview of the contents of the repository, clicking through.<br><br>- `README.md` - notice link to instructions for using this template<br>- `_config.yml` - notice that this controls elements of the site at a high level<br>- `_data folder` - note the demo-metadata.csv file referenced in _config.yml<br>- `docs` folder - instructions for using various parts of the website<br>- `objects` folder - note the images, which correspond to the names in the metadata.csv and to the images on the website, and the `readme.md` file with instructions on adding images to your project<br>- `pages` folder - note that the markdown pages here are not the final pages served by Jekyll. Rather, they instruct Jekyll on how to create the final html pages served by GitHub pages. Compare right click “view page source” image of html to the md file. |
 | 5. 15 minutes  | Upload sample metadata and images | 1. Download our sample project metadata and images. These materials are in the **student_resources** folder of [this GitHub repository](https://github.com/learn-static/collectionbuilder-workshop), which may be downloaded separately from the entire repository using [this link](https://downgit.github.io/#/home?url=https://github.com/learn-static/collectionbuilder-workshop/tree/main/student_materials) generated via [DownGit](https://downgit.github.io/#/home).  <br>2. Upload the images to the images folder.<br>4. Import metadata to Google Sheets and explore it. Then upload the metadata <br>5. Update _config.yml to direct the project to your new metadata file, senjafuda-metadata.csv |
-| 6. 15 minutes | Editing Metadata| 1. Check the website, discover error/omissions.<br>7. Edit metadata in Google Sheets to fix error.<br>8. Re-upload/commit and confirm fix.  |
+| 6. 15 minutes | Editing Metadata| 1. Check the website, discover there are only 8 images appearing, and that there are text encoding errors for the accents.<br>2. Edit senjafuda-metadata.csv in Google Sheets to fix errors in B10, M2, M4, M5.<br>8. Re-upload, commit and confirm fix.  |
 | 7. 5 minutes   | Final wrap-up  | 3/2/1 Reflection<br><br>- 3 things you found interesting<br>- 2 things you’ve learned<br>- 1 thing you still have a question about   |
 
 
