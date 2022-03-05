@@ -38,7 +38,6 @@ Students choose the appropriate platforms and tools for meeting the desired obje
 
 RESOURCES
 
-
 | Resource Type          | Links & Materials  |
 | ---------------------- | ------------------------------ |
 | Instructor Materials   | - Internet-connected computer, ideally with video camera. - Zoom account or other virtual meeting tool that has web conferencing features for chat, audio, and video. - Workshop Site |
@@ -47,43 +46,41 @@ RESOURCES
 
 LEARNING SEQUENCE OUTLINE
 
-During Class
-
-| Estimated time | Topic/Material Covered                                                      | Activity/Delivery Method                                                                                                                                                                                                                                                                                                                                                   |
-| -------------- | --------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1. 5 minutes   | Introductions                                                               | Learners will introduce themselves individually and answer the following questions:<br><br>- What is your name?<br>- What are your pronouns?<br>- Why are you here for the workshop?                                                                                                                                                                                       |
-| 2. 5 minutes  | CollectionBuilder & Its Relevancy for Storytelling with Digital Collections | Lecture<br><br>Brief slide lecture by the instructor that identifies:<br><br>- Show how people are using CollectionBuilder for digital collections<br><br>https://www.lib.uidaho.edu/digital/campushistory/<br><br>https://she-changed-world.cb.ncpedia.org/<br><br><br>- What CollectionBuilder is able to do out of the box<br><br>Highlight CollectionBuilders features |
+| Estimated time | Topic/Material Covered   | Activity/Delivery Method   |
+| -------------- | --------------------- | ----------------------- |
+| 1. 5 minutes   | Introductions    | Learners will introduce themselves individually and answer the following questions:<br><br>- What is your name?<br>- What are your pronouns?<br>- Why are you here for the workshop?  |
+| 2. 5 minutes  | CollectionBuilder for Storytelling with Digital Collections | Lecture<br><br>Brief slide lecture by the instructor that identifies:<br><br>- Show how people are using CollectionBuilder for digital collections<br><br>https://www.lib.uidaho.edu/digital/campushistory/<br><br>https://she-changed-world.cb.ncpedia.org/<br><br><br>- What CollectionBuilder is able to do out of the box<br><br>Highlight CollectionBuilders features |
 | 4. 10 minutes  | About Your Digital Collections & Stories                                    | Reflection<br><br>Ask a few learners to verbally share how they see CollectionBuilder fitting their digital collection needs<br><br>As learners share instructor should demo an example through a screen share<br><br>Share a link to our [Learn Static Module](https://learn-static.github.io/collectionbuilder-workshop/) for learners to reference in the future.                                                                  |
 
 ## Lesson 2 of 3 (GitHub)
 
 **Learning Objectives and Aligned Assessments**
 
-| Learning Objectives                                                                                                                                                                                                                                                                            | Aligned Assessments                                                                                                                                                                                                                                                                             |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| By the end of this class, you will be able to                                                                                                                                                                                                                                                  | Workshop leaders will confirm that learners have                                                                                                                                                                                                                                                |
+| Learning Objectives   | Aligned  |
+| ----- | ---------- |
+| By the end of this class, you will be able to     | Workshop leaders will confirm that learners have   |
 | 1. create a GitHub account and public repository<br>2. create a commit and a quality commit message<br>3. view git history to see changes to the repository and git diff to see changes to files<br>4. create an issue in a GitHub repository<br>5. find and add collaborators in a repository | 1. created a GitHub account and repository<br>2. created a commit and a quality commit message<br>3. viewed git history to see changes to the repository and git diff to see changes to files<br>4. created an issue in a GitHub repository<br>5. found and added collaborators in a repository |
 
 ----------
-### ALIGNED STANDARDS/FRAMEWORK
+ALIGNED STANDARDS/FRAMEWORK
 
 Prerequisite skills for ISTE 1.6b, “Students create original works or responsibly repurpose or remix digital resources into new creations.”
 
 ----------
-### RESOURCES
-| Resource Type          | Links & Materials                                                                                                                                                                                                                                |
-| ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Instructor Materials   | -  Internet-connected computer, ideally with video camera. - Zoom account or other virtual meeting tool that has web conferencing features for chat, audio, and video. -[Learn Static GitHub Modules](https://github.com/learn-static/foundations-0-github)                                                                                                  |
-| Learner Materials      | - Internet-connected computer, ideally with video camera. - Zoom account or other virtual meeting tool that has web conferencing features for chat, audio, and video. - Email account for creating GitHub account during in the session. |
+RESOURCES
 
-### LEARNING SEQUENCE OUTLINE
+| Resource Type  | Links & Materials   |
+| ---------------------- | ----------------- |
+| Instructor Materials   | -  Internet-connected computer, ideally with video camera. - Zoom account or other virtual meeting tool that has web conferencing features for chat, audio, and video. -[Learn Static GitHub Modules](https://github.com/learn-static/foundations-0-github)  |
+| Learner Materials   | - Internet-connected computer, ideally with video camera. - Zoom account or other virtual meeting tool that has web conferencing features for chat, audio, and video. - Email account for creating GitHub account during in the session. |
 
-| Estimated time | Topic/Material Covered                                              | Activity/Delivery Method                                                              |
-| -------------- | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
-| 1. 5 minutes   | What is GitHub and why use it?                                      | Brief lecture with slides                                                             |
+LEARNING SEQUENCE OUTLINE
+
+| Estimated time | Topic/Material Covered                                              | Activity/Delivery Method  |
+| -------------- | ---------------- | ---------------- |
+| 1. 5 minutes   | What is GitHub and why use it?                                      | Brief lecture with slides |
 | 2. 20 minutes  | Students go through the 5 steps outlined in the learning objectives | Click along based on the 5 steps outlined above (also covered in Learn-Static module) |
-| 4. 5 minutes   | Final questions/review                                              |                                                                                       |
-
+| 4. 5 minutes   | Final questions/review   |      |
 ----------
 
 ## Lesson 3 of 3
@@ -95,19 +92,20 @@ Prerequisite skills for ISTE 1.6b, “Students create original works or responsi
 | 1. copy a GitHub repository and display it as a website.<br>2. define the term metadata.<br>3. identify the folders in a CollectionBuilder project where images and metadata are uploaded.<br>4. identify the _config.yml file and understand that it controls essential elements of how the website is configured and displayed. | 1. cloned a Collectionbuilder-GH repository and enabled the GitHub Pages function.<br>2. uploaded new images and accompanying metadata that changes the visible content of their website.<br>3. modified the _config.yml file in their repository so that the site displays their new material.<br>4. changed the title of the website to reflect its new contents. |
 
 ----------
-### ALIGNED STANDARDS/FRAMEWORK
+ALIGNED STANDARDS/FRAMEWORK
 
 ISTE 1.6b, “Students create original works or responsibly repurpose or remix digital resources into new creations.”
 
 ----------
-### RESOURCES
+RESOURCES
+
 | Resource Type          | Links & Materials |
 | ---------------------- | ------------------- |
-| Instructor Materials   | Internet-connected computer, ideally with video camera.<br><br>Zoom account or other virtual meeting tool that has web conferencing features for chat, audio, and video.  |
-| Learner Materials      | Internet-connected computer, ideally with video camera.<br><br>Zoom account or other virtual meeting tool that has web conferencing features for chat, audio, and video.<br><br>Email account for creating GitHub account during in the session.    |
+| Instructor Materials   | Internet-connected computer, ideally with video camera.<br><br>Zoom account or other virtual meeting tool that has web conferencing features for chat, audio, and video.|
+| Learner Materials   | Internet-connected computer, ideally with video camera.<br><br>Zoom account or other virtual meeting tool that has web conferencing features for chat, audio, and video.<br><br>Email account for creating GitHub account during in the session. |
 | Supplemental Materials | Learner may bring their own digital images and metadata file to class in order to begin building a custom version of the workshop. Alternatively, we provide sample “custom” materials for students to practice on. These materials will consist of a number of small jpeg images, and one csv/Google sheet containing metadata in CollectionBuilder format, ready to upload to their website. |
 
-### LEARNING SEQUENCE OUTLINE
+LEARNING SEQUENCE OUTLINE
 
 **Before Class**
 
