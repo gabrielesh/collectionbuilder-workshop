@@ -6,24 +6,26 @@ topics: Learning Objectives; Assignments; GitHub; file editing and sharing
 order: 1
 ---
 
-# Building a Digital Archive using CollectionBuilder
+## Digital Collections & Storytelling with CollectionBuilder, Week 1: Building a Digital Archive using CollectionBuilder
 
-## CollectionBuilder Workshop 1 - Part 1
+In this workshop series you will learn how to create a website displaying a digital collection using free, open-source software (CollectionBuilder). Faculty, researchers, students, and staff are welcome. This workshop series is appropriate for anyone who wants to learn to build their own website to display a digital collection, whether for a class, a grant, or a digital humanities project. You can also use this software to create a personal website showcasing your professional portfolio as an architect, designer, or artist. You should be comfortable learning new things, but no prior experience with web design is required.
 
+We will begin by exploring what a digital collection is. We will help you set up an account on GitHub—the platform that will host our website for free—and show you a little bit about how interact with that platform. In the second hour of the workshop, you will learn to import sample data into a project. By the end of the session, you will have a live website!
 
-Digital Collections & Storytelling with CollectionBuilder
+You are encouraged to bring your own materials to the workshop if you already have materials for a digital collection prepared. Once you register, we will send you instructions on what materials to bring. 
 
-In lesson one of this learning sequence learners will gain experience expressing how they think CollectionBuilder is an appropriate tool for their digital collections and storytelling project. The audience for this lesson includes teachers, researchers, students, and staff
+**Before Class**
+Students will be invited (but not required) to set up their GitHub account before class.
 
-----------
+## Lesson 1 of 3 (Introduction)
+
+In lesson one of this learning sequence learners will gain experience expressing how they think CollectionBuilder is an appropriate tool for their digital collections and storytelling project.
 
 Learning Objectives and Aligned Assessments
 
-
 | Learning Objectives    | Aligned Assessments |
 | -----------------------| ------------------------ |
-| By the end of this class, you will be able to |                                        |
-| 1. Learner will express how CollectionBuilder is relevant to their digital collections and storytelling project | 1. Learners will express CollectionBuilder’s relevancy by sharing how they see the tool fitting their digital collection and storytelling needs |
+| 1. By the end of this class, you will express how CollectionBuilder is relevant to your digital collections and storytelling project. | 1. You will articulate CollectionBuilder’s relevancy by sharing how you see the tool fitting your digital collection and storytelling needs. |
 
 ----------
 ALIGNED STANDARDS/FRAMEWORK
@@ -45,37 +47,15 @@ RESOURCES
 
 LEARNING SEQUENCE OUTLINE
 
-Before Class
-
-Nothing is required for pre-class assessment.
-
 During Class
 
 | Estimated time | Topic/Material Covered                                                      | Activity/Delivery Method                                                                                                                                                                                                                                                                                                                                                   |
 | -------------- | --------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1. 5 minutes   | Introductions                                                               | Learners will introduce themselves individually and answer the following questions:<br><br>- What is your name?<br>- What are your pronouns?<br>- Why are you here for the workshop?                                                                                                                                                                                       |
-| 2. 10 minutes  | CollectionBuilder & Its Relevancy for Storytelling with Digital Collections | Lecture<br><br>Brief slide lecture by the instructor that identifies:<br><br>- Show how people are using CollectionBuilder for digital collections<br><br>https://www.lib.uidaho.edu/digital/campushistory/<br><br>https://she-changed-world.cb.ncpedia.org/<br><br><br>- What CollectionBuilder is able to do out of the box<br><br>Highlight CollectionBuilders features |
-| 4. 15 minutes  | About Your Digital Collections & Stories                                    | Reflection<br><br>Ask a few learners to verbally share how they see CollectionBuilder fitting their digital collection needs<br><br>As learners share instructor should demo an example through a screen share<br><br>Share a link to the resource guide/handout for learners to reference in the future.                                                                  |
+| 2. 5 minutes  | CollectionBuilder & Its Relevancy for Storytelling with Digital Collections | Lecture<br><br>Brief slide lecture by the instructor that identifies:<br><br>- Show how people are using CollectionBuilder for digital collections<br><br>https://www.lib.uidaho.edu/digital/campushistory/<br><br>https://she-changed-world.cb.ncpedia.org/<br><br><br>- What CollectionBuilder is able to do out of the box<br><br>Highlight CollectionBuilders features |
+| 4. 10 minutes  | About Your Digital Collections & Stories                                    | Reflection<br><br>Ask a few learners to verbally share how they see CollectionBuilder fitting their digital collection needs<br><br>As learners share instructor should demo an example through a screen share<br><br>Share a link to our [Learn Static Module](https://learn-static.github.io/collectionbuilder-workshop/) for learners to reference in the future.                                                                  |
 
-
-After Class
-
-Via email or another virtual communication tool, share the resource guide/handout again with learners for future reference.
-
-
-## CollectionBuilder Workshop 1: Part 2 of 3 (GitHub)
-
-Digital Collections & Storytelling with CollectionBuilder
-
-**Learning Sequence Description**
-
-In this workshop series you will learn how to create a website displaying a digital collection using free, open-source software (CollectionBuilder). This workshop series is appropriate for anyone who wants to learn to build their own website to display a digital collection, whether for a class, a grant, or a digital humanities project. You can also use this software to create a personal website showcasing your professional portfolio as an architect, designer, or artist. You should be comfortable learning new things, but no prior experience with web design is required.
-
-We will begin by exploring what a digital collection is. We will help you set up an account on GitHub—the platform that will host our website for free—and show you a little bit about how interact with that platform. In the second hour of the workshop, you will learn to import sample data into a project. By the end of the session, you will have a live website!
-
-You are encouraged to bring your own materials to the workshop if you already have materials for a digital collection prepared. Once you register, we will send you instructions on what materials to bring.
-
-----------
+## Lesson 2 of 3 (GitHub)
 
 **Learning Objectives and Aligned Assessments**
 
@@ -85,26 +65,18 @@ You are encouraged to bring your own materials to the workshop if you already ha
 | 1. create a GitHub account and public repository<br>2. create a commit and a quality commit message<br>3. view git history to see changes to the repository and git diff to see changes to files<br>4. create an issue in a GitHub repository<br>5. find and add collaborators in a repository | 1. created a GitHub account and repository<br>2. created a commit and a quality commit message<br>3. viewed git history to see changes to the repository and git diff to see changes to files<br>4. created an issue in a GitHub repository<br>5. found and added collaborators in a repository |
 
 ----------
-## ALIGNED STANDARDS/FRAMEWORK
+### ALIGNED STANDARDS/FRAMEWORK
 
 Prerequisite skills for ISTE 1.6b, “Students create original works or responsibly repurpose or remix digital resources into new creations.”
 
 ----------
-## RESOURCES
+### RESOURCES
 | Resource Type          | Links & Materials                                                                                                                                                                                                                                |
 | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Instructor Materials   | -  Internet-connected computer, ideally with video camera. - Zoom account or other virtual meeting tool that has web conferencing features for chat, audio, and video. -Learn Static Modules                                                                                                  |
+| Instructor Materials   | -  Internet-connected computer, ideally with video camera. - Zoom account or other virtual meeting tool that has web conferencing features for chat, audio, and video. -[Learn Static GitHub Modules](https://github.com/learn-static/foundations-0-github)                                                                                                  |
 | Learner Materials      | - Internet-connected computer, ideally with video camera. - Zoom account or other virtual meeting tool that has web conferencing features for chat, audio, and video. - Email account for creating GitHub account during in the session. |
-| Supplemental Materials | None                                                                                                                                                                                                                                             |
 
-## LEARNING SEQUENCE OUTLINE
-
-**Before Class**
-WHAT TO INCLUDE: Pre-class assessments; Pre-work to prepare for hands-on class time.
-
-Students will be invited (but not required) to set up their GitHub account before class.
-
-**During Class**
+### LEARNING SEQUENCE OUTLINE
 
 | Estimated time | Topic/Material Covered                                              | Activity/Delivery Method                                                              |
 | -------------- | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
@@ -112,28 +84,9 @@ Students will be invited (but not required) to set up their GitHub account befor
 | 2. 20 minutes  | Students go through the 5 steps outlined in the learning objectives | Click along based on the 5 steps outlined above (also covered in Learn-Static module) |
 | 4. 5 minutes   | Final questions/review                                              |                                                                                       |
 
-
-**After Class**
-WHAT TO INCLUDE: Summative Assessments; Plans for following-up with learners and those needing additional support; Extension of learning opportunities;
-
-Via email or another virtual communication tool, share the Learn-Static guide again with learners for future reference.
-
-
-
-## CollectionBuilder Workshop 1: Part 3 of 3
-CollectionBuilder Workshop 
-
-Digital Collections & Storytelling with CollectionBuilder
-
-**Learning Sequence Description**
-In this workshop series you will learn how to create a website displaying a digital collection using free, open-source software (CollectionBuilder). This workshop series is appropriate for anyone who wants to learn to build their own website to display a digital collection, whether for a class, a grant, or a digital humanities project. You can also use this software to create a personal website showcasing your professional portfolio as an architect, designer, or artist. You should be comfortable learning new things, but no prior experience with web design is required.
-
-We will begin by exploring what a digital collection is. We will help you set up an account on GitHub—the platform that will host our website for free—and show you a little bit about how interact with that platform. In the second hour of the workshop, you will learn to import sample data into a project. By the end of the session, you will have a live website!
-
-You are encouraged to bring your own materials to the workshop if you already have materials for a digital collection prepared. Once you register, we will send you instructions on what materials to bring.
-
 ----------
 
+## Lesson 3 of 3
 **Learning Objectives and Aligned Assessments**
 
 | Learning Objectives                                                                                                                                                                                                                                                                                                               | Aligned Assessments                                                                                                                                                                                                                                                                                                                                                 |
@@ -175,7 +128,9 @@ When students register for the class we will include instructions for how to pre
 
 **After Class**
 
-Students will be directed via a follow-up email to CollectionBuilder documentation on how to create and deploy their website, with particular emphasis on how to create image files and accompanying metadata.
+After Class
+
+Students will be directed via a follow-up email to Learn-Static resources and to CollectionBuilder documentation on how to create and deploy their website, with particular emphasis on how to create image files and accompanying metadata.
 
 Students will also be given the option to meet with an instructor directly to develop images and metadata at any point before, during, or after the workshop series.
 
