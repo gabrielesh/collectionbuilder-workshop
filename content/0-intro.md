@@ -5,7 +5,7 @@ permalink: /about.html
 order: 0
 ---
 
-This repository contains lesson plans and materials for teaching a three-part workshop on creating Digital Collections using CollectionBuilder. 
+This repository contains lesson plans and materials for teaching a three-part workshop on creating Digital Collections using CollectionBuilder. These workshops incorporate the individual lesson plans on GitHub, HTML and Markdown developed as part of the Learn Static repository.
 
 ## Digital Collections & Storytelling with CollectionBuilder
 
@@ -20,4 +20,4 @@ WORKSHOP RESOURCES
 | Resource Type  | Links & Materials   |
 | ---------------------- | ----------------- |
 | Instructor Materials   | -  Internet-connected computer, ideally with video camera. <br>- Zoom account or other virtual meeting tool that has web conferencing features for chat, audio, and video.  <br>- [Learn Static Workshop Pages](https://learn-static.github.io/collectionbuilder-workshop/) <br>- GitHub account <br>- Google account for using Sheets|
-| Learner Materials   | - Internet-connected computer, ideally with video camera. <br>- Zoom account or other virtual meeting tool that has web conferencing features for chat, audio, and video. <br>- Email account for creating GitHub account during in the session. <br>- Google account for using Sheets<br>-[Learn Static GitHub Module](https://github.com/learn-static/foundations-0-github) -Materials in the **student_resources** folder of [this GitHub repository](https://github.com/learn-static/collectionbuilder-workshop), which may be downloaded separately from the entire repository using [this link](https://downgit.github.io/#/home?url=https://github.com/learn-static/collectionbuilder-workshop/tree/main/student_materials) generated via [DownGit](https://downgit.github.io/#/home) |
+| Learner Materials   | - Internet-connected computer, ideally with video camera. <br>- Zoom account or other virtual meeting tool that has web conferencing features for chat, audio, and video. <br>- Email account for creating GitHub account during in the session. <br>- Google account for using Sheets<br>-[Learn Static GitHub Module](https://github.com/learn-static/foundations-0-github)<br>- [Learn Static HTML Module](https://github.com/learn-static/foundations-1-html) <br>- [Learn Static Markdown Module](https://github.com/learn-static/foundations-2-markdown)<br> -Materials in the **student_resources** folder of [this GitHub repository](https://github.com/learn-static/collectionbuilder-workshop), which may be downloaded separately from the entire repository using [this link](https://downgit.github.io/#/home?url=https://github.com/learn-static/collectionbuilder-workshop/tree/main/student_materials) generated via [DownGit](https://downgit.github.io/#/home) |
