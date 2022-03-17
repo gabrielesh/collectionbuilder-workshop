@@ -165,3 +165,8 @@ div.highlighter-rouge {
     height: 1em;
     vertical-align: -0.1em;
 }
+
+/* make table border */
+table, th, td {
+  border: 1px solid;
+}
