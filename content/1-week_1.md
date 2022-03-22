@@ -22,6 +22,7 @@ WORKSHOP RESOURCES
 | ---------------------- | ----------------- |
 | Instructor Materials   | -  Internet-connected computer, ideally with video camera. <br>- Zoom account or other virtual meeting tool that has web conferencing features for chat, audio, and video.  <br>- [Learn Static Workshop Pages](https://learn-static.github.io/collectionbuilder-workshop/) <br>- GitHub account <br>- Google account for using Sheets|
 | Learner Materials   | - Internet-connected computer, ideally with video camera. <br>- Zoom account or other virtual meeting tool that has web conferencing features for chat, audio, and video. <br>- Email account for creating GitHub account during in the session. <br>- Google account for using Sheets<br>-[Learn Static GitHub Module](https://github.com/learn-static/foundations-0-github) <br>-Materials in the **student_resources** folder of [this GitHub repository](https://github.com/learn-static/collectionbuilder-workshop), which may be downloaded separately from the entire repository using [this link](https://downgit.github.io/#/home?url=https://github.com/learn-static/collectionbuilder-workshop/tree/main/student_materials) generated via [DownGit](https://downgit.github.io/#/home) |
+{:.table .table-bordered}
 
 **Before Class**
 Participants will be invited (but not required) to set up their GitHub account before class.
@@ -37,6 +38,7 @@ Learning Objectives and Aligned Assessments
 | Learning Objectives    | Aligned Assessments |
 | -----------------------| ------------------------ |
 | 1. By the end of this class, you will express how CollectionBuilder is relevant to your digital collections and storytelling project. | 1. You will articulate CollectionBuilder’s relevancy by sharing how you see the tool fitting your digital collection and storytelling needs. |
+{:.table .table-bordered}
 
 ----------
 ALIGNED STANDARDS/FRAMEWORK
@@ -54,6 +56,7 @@ LEARNING SEQUENCE OUTLINE
 | 1. 5 minutes   | Introductions    | Learners will introduce themselves individually and answer the following questions:<br><br>- What is your name?<br>- What are your pronouns?<br>- Why are you here for the workshop?  |
 | 2. 5 minutes  | CollectionBuilder for Storytelling with Digital Collections | Lecture<br><br>Brief slide lecture by the instructor that identifies:<br><br>- Show how people are using CollectionBuilder for digital collections<br><br>https://www.lib.uidaho.edu/digital/campushistory/<br><br>https://she-changed-world.cb.ncpedia.org/<br><br><br>- What CollectionBuilder is able to do out of the box<br><br>Highlight CollectionBuilders features |
 | 4. 10 minutes  | About Your Digital Collections & Stories | Reflection<br><br>Ask a few learners to verbally share how they see CollectionBuilder fitting their digital collection needs<br><br>As learners share instructor should demo an example through a screen share<br><br>Share a link to our [Learn Static Module](https://learn-static.github.io/collectionbuilder-workshop/) for learners to reference in the future.    |
+{:.table .table-bordered}
 
 ## Lesson 2 of 3. GitHub (20 minutes)
 
@@ -65,6 +68,7 @@ Lesson 2 of this workshop introduces students to using GitHub via their web brow
 | ----- | ---------- |
 | By the end of this class, you will be able to  | Workshop leaders will confirm that learners have   |
 | 1. create a GitHub account and public repository<br>2. create a commit and a quality commit message<br>3. view git history to see changes to the repository and git diff to see changes to files<br>4. create an issue in a GitHub repository<br>5. find and add collaborators in a repository | 1. created a GitHub account and repository<br>2. created a commit and a quality commit message<br>3. viewed git history to see changes to the repository and git diff to see changes to files<br>4. created an issue in a GitHub repository<br>5. found and added collaborators in a repository |
+{:.table .table-bordered}
 
 ----------
 ALIGNED STANDARDS/FRAMEWORK
@@ -80,6 +84,7 @@ LEARNING SEQUENCE OUTLINE
 | 1. 5 minutes   | What is GitHub and why use it?                                      | Brief lecture with slides |
 | 2. 10 minutes  | Students go through the 5 steps outlined in the learning objectives | Click along based on the 5 steps outlined above (also covered in Learn-Static module) |
 | 4. 5 minutes   | Final questions/review   |      |
+{:.table .table-bordered}
 
 ----------
 
@@ -90,6 +95,7 @@ LEARNING SEQUENCE OUTLINE
 | --------------- | ----------------- |
 | By the end of this class, you will be able to   | By the end of class, participants will have  |
 | 1. identify the elements of a CollectionBuilder-gh project that control images and image descriptions (digital objects and their metadata). 2. use Google Sheets or another spreadsheet editing software to make basic edits to an existing spreadsheet.| 1. created and deployed a demo CollectionBuilder-gh project <br> 2. edited project metadata, images, and configuration files to customize their project |
+{:.table .table-bordered}
 
 ----------
 ALIGNED STANDARDS/FRAMEWORK
@@ -108,6 +114,7 @@ LEARNING SEQUENCE OUTLINE
 | 5. 15 minutes  | Upload sample metadata and images | 1. Download our sample project metadata and images. These materials are in the **student_resources** folder of [this GitHub repository](https://github.com/learn-static/collectionbuilder-workshop), which may be downloaded separately from the entire repository using [this link](https://downgit.github.io/#/home?url=https://github.com/learn-static/collectionbuilder-workshop/tree/main/student_materials) generated via [DownGit](https://downgit.github.io/#/home).  <br>2. Upload the images to the images folder.<br>4. Import metadata to Google Sheets and explore it. Then upload the metadata <br>5. Update _config.yml to direct the project to your new metadata file, senjafuda-metadata.csv |
 | 6. 15 minutes | Editing Metadata| 1. Check the website, discover there are only 8 images appearing, and that there are text encoding errors for the [macron](https://en.wikipedia.org/wiki/Macron_(diacritic)) (diacritical mark over the o) in several romanized Japanese words. Note that UTF-8, the encoding Google Sheets uses for saving our CSVs, includes encoding for macrons. However, as this material was cut and pasted, the encoding was lost somewhere along the way.<br>2. Edit senjafuda-metadata.csv in Google Sheets to fix the errors you found in the website. The errors in the csv are in B10 and E4. In B10, notice that the filename listed in the sheet does not match the filename of the image, and remember, the computer never knows what you really meant to say! Here are [instructions to type a macron for Mac](https://support.apple.com/guide/mac-help/enter-characters-with-accent-marks-on-mac-mh27474/mac) and [instructions to type a macron for Windows](https://support.microsoft.com/en-us/office/keyboard-shortcuts-to-add-language-accent-marks-in-word-3801b103-6a8d-42a5-b8ba-fdc3774cfc76).<br>8. Re-upload, commit and confirm fix.  |
 | 7. 5 minutes   | Final wrap-up  | 3/2/1 Reflection<br><br>- 3 things you found interesting<br>- 2 things you’ve learned<br>- 1 thing you still have a question about  |
+{:.table .table-bordered}
 
 
 **After Class**
