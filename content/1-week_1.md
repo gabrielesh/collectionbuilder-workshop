@@ -16,13 +16,32 @@ We will begin by exploring what a digital collection is. We will help you set up
 
 Our sample project ([demo version here](https://kmthorn.github.io/collectionbuilder-demo1/)) replicates an openly licensed digital exhibit, [Yōkai Senjafuda](https://glam.uoregon.edu/yokaisenjafuda/page/welcome), built by the University of Oregon Libraries and the Jordan Schnitzer Museum of Art, with support from The Andrew W. Mellon Foundation.
 
+{% assign resources-with-markdown = site.data.tables | where: "category", "workshop-resources" %}
+{% assign resources-no-markdown = site.data.tables-nomarkdown | where: "category", "workshop-resources" %}
+
 WORKSHOP RESOURCES
 
-| Resource Type  | Links & Materials   |
-| ---------------------- | ----------------- |
-| Instructor Materials   | -  Internet-connected computer, ideally with video camera. <br>- Zoom account or other virtual meeting tool that has web conferencing features for chat, audio, and video.  <br>- [Learn Static Workshop Pages](https://learn-static.github.io/collectionbuilder-workshop/) <br>- GitHub account <br>- Google account for using Sheets|
-| Learner Materials   | - Internet-connected computer, ideally with video camera. <br>- Zoom account or other virtual meeting tool that has web conferencing features for chat, audio, and video. <br>- Email account for creating GitHub account during in the session. <br>- Google account for using Sheets<br>-[Learn Static GitHub Module](https://github.com/learn-static/foundations-0-github) <br>-Materials in the **student_resources** folder of [this GitHub repository](https://github.com/learn-static/collectionbuilder-workshop), which may be downloaded separately from the entire repository using [this link](https://downgit.github.io/#/home?url=https://github.com/learn-static/collectionbuilder-workshop/tree/main/student_materials) generated via [DownGit](https://downgit.github.io/#/home) |
+| Resource Type | Links & Materials |
+| --- | --- |{% for r in resources-no-markdown %}
+| {{ r.column1 }} | {{ r.column2 }} |{% endfor %}
 {:.table .table-bordered}
+
+<table class="table table-bordered">
+  <thead>
+    <tr>
+      <th scope="col">Resource Type</th>
+      <th scope="col">Links & Materials</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for r in resources-with-markdown %}
+    <tr>
+      <th scope="row">{{ r.column1 | markdownify }}</th>
+      <td>{{ r.column2 | markdownify }}</td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
 
 **Before Class**
 Participants will be invited (but not required) to set up their GitHub account before class.
