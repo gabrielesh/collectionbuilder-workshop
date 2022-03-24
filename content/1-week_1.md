@@ -1,5 +1,5 @@
 ---
-title: Week 1&#58; Building a Digital Archive using CollectionBuilder
+title: Week 1. Building a Digital Archive using CollectionBuilder
 nav: Week 1
 permalink: /week1.html
 topics: 

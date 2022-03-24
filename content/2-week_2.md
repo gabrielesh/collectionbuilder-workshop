@@ -1,5 +1,5 @@
 ---
-title: Week 2&#58; Understanding Markdown and HTML
+title: Week 2. Understanding Markdown and HTML
 nav: Week 2
 permalink: /week_2.html
 topics: Markdown; HTML
@@ -44,9 +44,9 @@ LEARNING SEQUENCE OUTLINE
 | -------------- | --------------- | ----------- |
 | 1. 5 minutes   | Icebreaker   |         |
 | 2. 5 minutes   | Workshop Overview | 1. Review website structure, Markdown content <br>2. Introduce dillinger.io as a place to explore Markdown -> HTML  |
-| 3. 10 minutes  | Activity | Revise the standard dillinger.io document to - create a new bulleted list, - create a new hyperlink, create new level 1 and level 2 headers. <br>Explore how these changes affect the website |
+| 3. 10 minutes  | Activity | Revise the standard dillinger.io document to - create a new bulleted list, - create a new hyperlink, create new level 1 and level 2 headers. <br>- Explore how these changes affect the website |
 | 4. 5 minutes | Activity set-up  | Review how to modify GitHub markdown |
-| 5. 15 minutes  | Activity: update formatting of markdown in your project | Question: should this follow the exact steps of the Markdown asynchronous activity? If so, we need to add time for students to upload the draft markdown document in that project, and explain how to do so to another repository. |
+| 5. 15 minutes  | Activity: update formatting of markdown in your project |  |
 | 5. 35 minutes  | Review Metadata? Or modify CSS? | TBD  |
 | 6. 5 minutes   | Final wrap-up and questions    | 3-2-1 exercise |
 
