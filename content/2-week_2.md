@@ -19,6 +19,7 @@ order: 2
 | ------------------- | -------------------- |
 | By the end of this class, you will be able to | By the end of class, participants will have |
 |1. Use Markdown to create web content <br>2. Describe how Jekyll converts Markdown to HTML  | 1. Practiced writing Markdown in dillinger.io and explored the HTML created from it. <br>2. Created or modified a Markdown page in your demo project. |
+{:.table .table-bordered}
 
 ----------
 ## ALIGNED STANDARDS/FRAMEWORK
@@ -32,11 +33,10 @@ RESOURCES
 | ---------------------- | ----------------- |
 | Instructor Materials   | -  Internet-connected computer, ideally with video camera. <br>- Zoom account or other virtual meeting tool that has web conferencing features for chat, audio, and video.  <br>- [Learn Static Workshop Pages](https://learn-static.github.io/collectionbuilder-workshop/) <br>- GitHub account <br>- Google account for using Sheets|
 | Learner Materials   | - Internet-connected computer, ideally with video camera. <br>- Zoom account or other virtual meeting tool that has web conferencing features for chat, audio, and video. <br>- Google account for using Sheets<br>- [Learn Static HTML Module](https://github.com/learn-static/foundations-1-html) <br>- [Learn Static Markdown Module](https://github.com/learn-static/foundations-2-markdown)|
+{:.table .table-bordered}
+
 
 LEARNING SEQUENCE OUTLINE
-
-**Before Class**
-
 
 **During Class**
 
@@ -49,6 +49,8 @@ LEARNING SEQUENCE OUTLINE
 | 5. 15 minutes  | Activity: update formatting of markdown in your project |  |
 | 5. 35 minutes  | Review Metadata? Or modify CSS? | TBD  |
 | 6. 5 minutes   | Final wrap-up and questions    | 3-2-1 exercise |
+{:.table .table-bordered}
+
 
 **After Class**
 Students will be directed via a follow-up email to Learn-Static modules on HTML and Markdown.

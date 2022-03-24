@@ -54,7 +54,7 @@ LEARNING SEQUENCE OUTLINE
 | Estimated time | Topic/Material Covered   | Activity/Delivery Method   |
 | -------------- | --------------------- | ----------------------- |
 | 1. 5 minutes   | Introductions    | Learners will introduce themselves individually and answer the following questions:<br><br>- What is your name?<br>- What are your pronouns?<br>- Why are you here for the workshop?  |
-| 2. 5 minutes  | CollectionBuilder for Storytelling with Digital Collections | Lecture<br><br>Brief slide lecture by the instructor that identifies:<br><br>- Show how people are using CollectionBuilder for digital collections<br><br>https://www.lib.uidaho.edu/digital/campushistory/<br><br>https://she-changed-world.cb.ncpedia.org/<br><br><br>- What CollectionBuilder is able to do out of the box<br><br>Highlight CollectionBuilders features |
+| 2. 5 minutes  | CollectionBuilder for Storytelling with Digital Collections | Lecture<br><br>- Show how people are using CollectionBuilder for digital collections<br><br>https://www.lib.uidaho.edu/digital/campushistory/<br><br>https://she-changed-world.cb.ncpedia.org/<br><br><br>- What CollectionBuilder is able to do out of the box<br><br>Highlight CollectionBuilders features |
 | 4. 10 minutes  | About Your Digital Collections & Stories | Reflection<br><br>Ask a few learners to verbally share how they see CollectionBuilder fitting their digital collection needs<br><br>As learners share instructor should demo an example through a screen share<br><br>Share a link to our [Learn Static Module](https://learn-static.github.io/collectionbuilder-workshop/) for learners to reference in the future.    |
 {:.table .table-bordered}
 
