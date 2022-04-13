@@ -6,15 +6,13 @@ topics:
 order: 1
 ---
 
-# Digital Collections & Storytelling with CollectionBuilder
-
 ## Week 1: Building a Digital Archive using CollectionBuilder
 
 In this workshop series you will learn how to create a website displaying a digital collection using free, open-source software (CollectionBuilder). Faculty, researchers, students, and staff are welcome. This workshop series is appropriate for anyone who wants to learn to build their own website to display a digital collection, whether for a class, a grant, or a digital humanities project. You can also use this software to create a personal website showcasing your professional portfolio as an architect, designer, or artist. You should be comfortable learning new things, but no prior experience with web design is required.
 
 We will begin by exploring what a digital collection is. We will help you set up an account on GitHub—the platform that will host our website for free—and show you a little bit about how interact with that platform. In the second hour of the workshop, you will learn to import sample data into a project. By the end of the session, you will have a live website!
 
-Our sample project ([demo version here](https://kmthorn.github.io/collectionbuilder-demo1/)) replicates an openly licensed digital exhibit, [Yōkai Senjafuda](https://glam.uoregon.edu/yokaisenjafuda/page/welcome), built by the University of Oregon Libraries and the Jordan Schnitzer Museum of Art, with support from The Andrew W. Mellon Foundation.
+Our sample project ([demo version here](https://gabrielesh.github.io/yokai-senjafuda/)) replicates an openly licensed digital exhibit, [Yōkai Senjafuda](https://glam.uoregon.edu/yokaisenjafuda/page/welcome), built by the University of Oregon Libraries and the Jordan Schnitzer Museum of Art, with support from The Andrew W. Mellon Foundation.
 
 WORKSHOP RESOURCES
 
@@ -53,9 +51,9 @@ LEARNING SEQUENCE OUTLINE
 
 | Estimated time | Topic/Material Covered   | Activity/Delivery Method   |
 | -------------- | --------------------- | ----------------------- |
-| 1. 5 minutes   | Introductions    | Learners will introduce themselves individually and answer the following questions:<br><br>- What is your name?<br>- What are your pronouns?<br>- Why are you here for the workshop?  |
-| 2. 5 minutes  | CollectionBuilder for Storytelling with Digital Collections | Lecture<br><br>- Show how people are using CollectionBuilder for digital collections<br><br>https://www.lib.uidaho.edu/digital/campushistory/<br><br>https://she-changed-world.cb.ncpedia.org/<br><br><br>- What CollectionBuilder is able to do out of the box<br><br>Highlight CollectionBuilders features |
-| 4. 10 minutes  | About Your Digital Collections & Stories | Reflection<br><br>Ask a few learners to verbally share how they see CollectionBuilder fitting their digital collection needs<br><br>As learners share instructor should demo an example through a screen share<br><br>Share a link to our [Learn Static Module](https://learn-static.github.io/collectionbuilder-workshop/) for learners to reference in the future.    |
+| 1. 5 minutes   | Introductions    | Learners will introduce themselves individually and answer the following questions:<br><br>- What is your name?<br>- What are your pronouns?<br>- What are your goals for this workshop?  |
+| 2. 5 minutes  | CollectionBuilder for Storytelling with Digital Collections | Lecture<br><br>- CollectionBuilder can be used to showcase digital collections, such as [University of Idaho Camups History](https://www.lib.uidaho.edu/digital/campushistory/) and [North Carolina Women](https://she-changed-world.cb.ncpedia.org/)<br> - Out of the box,CollectionBuilder incudes maps, timelines, and data downloads.|
+| 4. 10 minutes  | About Your Digital Collections & Stories | Reflection<br>Ask a few learners to verbally share how they see CollectionBuilder fitting their digital collection needs<br><br>As learners share instructor should demo an example through a screen share<br><br>Share a link to our [Learn Static Module](https://learn-static.github.io/collectionbuilder-workshop/) for learners to reference in the future.    |
 {:.table .table-bordered}
 
 ## Lesson 2 of 3. GitHub (20 minutes)
