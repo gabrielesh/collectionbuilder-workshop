@@ -31,7 +31,6 @@ Explore your new repository. Note in particular these files and folders:
 - README.md - notice it has links to instructions for using this template
 - _config.yml - this controls elements of the site at a high level
 - _data folder - contains the metadata spreadsheet that will control content on the site
-- docs folder - instructions for using various parts of the website
 - objects folder - contains images that build the website and a readme.md file with instructions on adding images to your project
 - pages folder - contains markdown pages that will create the website
 
@@ -113,14 +112,21 @@ Now it's time to turn on the webpage associated with this project.
 
 ## Step 8. Explore the relationship between your repository and the website
 
-- README.md - notice link to instructions for using this template
-- _config.yml - notice that this controls elements of the site at a high level
-- _data folder - note the demo-metadata.csv file referenced in _config.yml
-- docs folder - instructions for using various parts of the website
-- objects folder - note the images, which correspond to the names in the metadata.csv and to the images on the website, and the readme.md file with instructions on adding images to your project
-- pages folder - note that the markdown pages here are not the final pages served by Jekyll. Rather, they instruct Jekyll on how to create the final html pages served by GitHub pages. Compare right click “view page source” image of html to the md file
+1. Open the link to the website in the "About" section of your repository in a new window or tab and explore the website.
+2. Returning to your repository, click into the objects folder: note the images, which correspond to the images on the website, and the readme.md file with instructions on adding images to your project.
+3. Click into the pages folder: note that the names of the markdown pages here correspond to the names of the main page on the website.
+4. Note that these markdown pages are not the final pages served by Jekyll. Rather, they instruct Jekyll on how to create the final html pages served by GitHub pages. You can see that final html by navigating to the website. Right click “view page source” to see the html that creates these web pages. 
 
-## Step 9. Add a New File to the Repository
+## Step 9. Download our sample project metadata and images. 
+
+1. You can download the sample materials for our project using [this link](https://downgit.github.io/#/home?url=https://github.com/learn-static/collectionbuilder-workshop/tree/main/student_materials) generated via [DownGit](https://downgit.github.io/#/home). (If you are curious, the sample materials are in the **student_resources** folder of [this GitHub repository](https://github.com/learn-static/collectionbuilder-workshop). We use DownGit so you don't have to download the entire repository to access just these files.)  |
+2. Upload the images to the images folder.
+4. Import metadata to Google Sheets and explore it. Then upload the metadata.
+5. Update _config.yml to direct the project to your new metadata file, senjafuda-metadata.csv
+
+## 
+
+Update the metadata 
 
 Now it's time to add a new file to your project.
 
@@ -148,9 +154,4 @@ Most digital projects are collaborative, so you will probably want to add your c
 Once added your collaborator will receive an email with the invitation to join your repository.
 They will have to confirm the invitation before being added!
 
-## Step 10. Download our sample project metadata and images. 
-
-1. You can download the sample materials for our project using [this link](https://downgit.github.io/#/home?url=https://github.com/learn-static/collectionbuilder-workshop/tree/main/student_materials) generated via [DownGit](https://downgit.github.io/#/home). (If you are curious, the sample materials are in the **student_resources** folder of [this GitHub repository](https://github.com/learn-static/collectionbuilder-workshop). We use DownGit so you don't have to download the entire repository to access just these files.)  |
-2. Upload the images to the images folder.
-4. Import metadata to Google Sheets and explore it. Then upload the metadata.
-5. Update _config.yml to direct the project to your new metadata file, senjafuda-metadata.csv
+## Step 10. 
