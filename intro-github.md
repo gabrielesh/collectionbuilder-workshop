@@ -86,26 +86,11 @@ You are viewing the difference between the original version of your repository's
 
 3. Click your repository's name (located in the top left of the window) to return to the repository's home page.
 
-## Step 6. Turn on GitHub Pages (Make this demo project a website!)
-
-Now it's time to turn on the webpage associated with this project.
-
-1. On your repository's home page, locate and click the "Settings" button, the very . When this button is clicked, a drop-down menu will appear. Select the option "Create new file".
-2. An option to name your file will appear toward the top of your screen. Give your file the name: `new-file.txt`
-3. Add the following sentence to the body of your text file:
-
-```
-This is a new file in my GitHub repository.
-
-```
-
-4. Commit your new file to your repository by adding the commit message `add new file` (just as you did in the "Make a Commit" section above), and pressing the green "Commit new file" button.
-
-## Step 7. Check Out the Repository's History
+## Step 6. Check Out the Repository's History
 
 Let's view all the changes we've made to the repository so far.
 
-1. On your repository's home page, locate the commit count for your repository, situated underneath the green "Code" button and to the right of the clock icon. It should display a number followed by the word "commits" (example: "3 commits"): 
+1. On your repository's home page, locate the commit count for your repository, situated underneath the green "Code" button and to the right of the clock icon. It should display a number followed by the word "commits" (example: "2 commits"): 
 2. Click on this commit count link.
 
 You are now viewing your repository's history (all the commits that have ever been made to your repository).
@@ -113,7 +98,29 @@ You are now viewing your repository's history (all the commits that have ever be
 3. Click on the commit message `update project title` to view the changes that were made as part of that commit.
 4. Click your repository's name (located in the top left of the window) to return to the repository's home page.
 
-## Step 8. Add a New File to the Repository
+## Step 7. Turn on GitHub Pages (Make this demo project a website!)
+
+Now it's time to turn on the webpage associated with this project.
+
+1. On your repository's home page, locate and click the "Settings" link, which is the very top right menu item on the menu. 
+2. Scroll down on the vertical "Settings" Menu and select "Pages" (the last link in the "Code and Automation" section).
+3. Under "Source," select the button that says "None", and choose "main" from the dropdown.
+4. Click the "Save" button to the right of the Source button, which now should read "branch: main."
+5. You should now see a notification saying "Your site is ready to be published at https://[YourUsername].github.io/yokai-senjafuda/" Select the link listed here and copy it.
+6. Navigate back to the homepage of your repository by clicking on the leftmost menu item in the top left of your screen, "<> Code." (Alternatively, click on the name of your repository, "yokai-senjafuda.")
+7. Click on the Settings gear icon located in the "About" box located to the right of the green "Code" button to bring up the "Edit repository details" screen. 
+8. Paste your website url into the "Website" box, and click the green "Save Changes" button.
+
+## Step 8. Explore the relationship between your repository and the website
+
+- README.md - notice link to instructions for using this template
+- _config.yml - notice that this controls elements of the site at a high level
+- _data folder - note the demo-metadata.csv file referenced in _config.yml
+- docs folder - instructions for using various parts of the website
+- objects folder - note the images, which correspond to the names in the metadata.csv and to the images on the website, and the readme.md file with instructions on adding images to your project
+- pages folder - note that the markdown pages here are not the final pages served by Jekyll. Rather, they instruct Jekyll on how to create the final html pages served by GitHub pages. Compare right click “view page source” image of html to the md file
+
+## Step 9. Add a New File to the Repository
 
 Now it's time to add a new file to your project.
 
