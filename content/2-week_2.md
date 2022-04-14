@@ -1,9 +1,7 @@
 ---
+nav_order: 3
 title: Week 2. Understanding Markdown and HTML
-nav: Week 2
-permalink: /week_2.html
 topics: Markdown; HTML
-order: 2
 ---
 
 ## CollectionBuilder Workshop 2: Understanding Markdown and HTML

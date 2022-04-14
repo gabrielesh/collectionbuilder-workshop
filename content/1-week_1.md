@@ -1,9 +1,7 @@
 ---
+nav_order: 2
 title: Week 1. Building a Digital Archive using CollectionBuilder
-nav: Week 1
-permalink: /week1.html
 topics: 
-order: 1
 ---
 
 ## Week 1: Building a Digital Archive using CollectionBuilder

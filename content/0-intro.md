@@ -1,8 +1,7 @@
 ---
+nav_order: 1
 title: About Digital Collections & Storytelling with CollectionBuilder
 nav: About
-permalink: /about.html
-order: 0
 ---
 
 This repository contains lesson plans and materials for teaching a three-part workshop on creating Digital Collections using CollectionBuilder. These workshops incorporate the individual lesson plans on GitHub, HTML and Markdown developed as part of the Learn Static repository.
