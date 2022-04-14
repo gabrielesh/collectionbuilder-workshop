@@ -17,21 +17,23 @@ Before we get started, let's clarify some terms:
 Copy code from another repository into your own and start editing it.
 
 1. Make sure you're logged into your account on [GitHub](https://github.com)
-2. Scroll to the top of the [foundations-0-github](https://github.com/learn-static/foundations-0-github) repository and click the green "Use This Template" button (appears on the right side above the code area)
+2. Navigate to the [collectionbuilder-gh](https://github.com/CollectionBuilder/collectionbuilder-gh) GitHub repository and click the green "Use This Template" button (appears on the right side above the code area)
 4. This brings you to a "Create a new repository" form. Follow these steps:
-    1. In the **Repository name** text box, give your repository the name `github-foundations`. If you'd like to create your own name for the repository, be sure to use a lowercase name without spaces or odd characters. Dashes (`-`) or underscores (`_`) are okay.
-    2. In the **Description** text box, add `A place to learn GitHub basics`.
+    1. In the **Repository name** text box, give your repository the name `yokai-senjafuda`. If you'd like to create your own name for the repository, be sure to use a lowercase name without spaces or odd characters. Dashes (`-`) or underscores (`_`) are okay.
+    2. In the **Description** text box, add `A demo CollectionBuilder site`.
     3. Select the option for "**Public**" repository.
     4. Leave the "Include all branches" option **Unchecked**!
     5. Click on the green button "**Create repository from template**". This will take you to your new repository.
 
 ## Step 3. Edit README file
 
-Explore your new repository.
-It contains: 
-- a folder of images
-- a README file
-- an "intro-github" file with instructions for this lesson
+Explore your new repository. Note in particular these files and folders:
+- README.md - notice it has links to instructions for using this template
+- _config.yml - this controls elements of the site at a high level
+- _data folder - contains the metadata spreadsheet that will control content on the site
+- docs folder - instructions for using various parts of the website
+- objects folder - contains images that build the website and a readme.md file with instructions on adding images to your project
+- pages folder - contains markdown pages that will create the website
 
 1. Click on the `README.md` link. This will open your README file.
 
@@ -47,7 +49,7 @@ You are now in GitHub's editing mode.
 The first line at the top of the file will look like this:
 
 ```
-# foundations-0-github
+# collectionbuilder-gh
 
 ```
 
@@ -84,11 +86,11 @@ You are viewing the difference between the original version of your repository's
 
 3. Click your repository's name (located in the top left of the window) to return to the repository's home page.
 
-## Step 6. Add a New File to the Repository
+## Step 6. Turn on GitHub Pages (Make this demo project a website!)
 
-Now it's time to add a new file to your project.
+Now it's time to turn on the webpage associated with this project.
 
-1. On your repository's home page, locate and click the "Add file" button, situated to the right above your repository's files. When this button is clicked, a drop-down menu will appear. Select the option "Create new file".
+1. On your repository's home page, locate and click the "Settings" button, the very . When this button is clicked, a drop-down menu will appear. Select the option "Create new file".
 2. An option to name your file will appear toward the top of your screen. Give your file the name: `new-file.txt`
 3. Add the following sentence to the body of your text file:
 
@@ -111,28 +113,20 @@ You are now viewing your repository's history (all the commits that have ever be
 3. Click on the commit message `update project title` to view the changes that were made as part of that commit.
 4. Click your repository's name (located in the top left of the window) to return to the repository's home page.
 
-## Step 8. Make an Issue
+## Step 8. Add a New File to the Repository
 
-GitHub Issues are a great way to record tasks, identify problems, and communicate with collaborators on your own repositories as well as others'.
+Now it's time to add a new file to your project.
 
-1. Make sure you are on your repository's home page.
-2. In the navigation menu below your repository's name, locate and click on the "Issues" button. This will take you a "Welcome to issues!" page.
-3. Click the green "New issue" button, located on the right side of the screen.
-4. In the "Title" text box, type "My first issue."
-5. In the "Write" text box, copy and paste the following description:
+1. On your repository's home page, locate and click the "Add file" button, situated to the right above your repository's files. When this button is clicked, a drop-down menu will appear. Select the option "Create new file".
+2. An option to name your file will appear toward the top of your screen. Give your file the name: `new-file.txt`
+3. Add the following sentence to the body of your text file:
 
 ```
-To-do:
-
-- [ ] Complete the Learn-STATIC foundations-0-github module (https://github.com/learn-static/foundations-0-github)
-- [ ] Learn more about GitHub and HTML by completing the Learn-STATIC foundations-1-html module (https://github.com/learn-static/foundations-1-html)
+This is a new file in my GitHub repository.
 
 ```
 
-6. To preview your issue, click the "Preview" tab to the right of the "Write" tab. (Notice the `- [ ]` turn into checkboxes!)
-7. When your description is finished, click on the green "Submit new issue" button.
-8. Congratulations, you've successfully created an issue!
-9. Click your repository's name (located in the top left of the window) to return to the repository's home page.
+4. Commit your new file to your repository by adding the commit message `add new file` (just as you did in the "Make a Commit" section above), and pressing the green "Commit new file" button.
 
 ## Step 9. (Optional) Add a GitHub Collaborator
 
@@ -146,3 +140,10 @@ Most digital projects are collaborative, so you will probably want to add your c
 
 Once added your collaborator will receive an email with the invitation to join your repository.
 They will have to confirm the invitation before being added!
+
+## Step 10. Download our sample project metadata and images. 
+
+1. You can download the sample materials for our project using [this link](https://downgit.github.io/#/home?url=https://github.com/learn-static/collectionbuilder-workshop/tree/main/student_materials) generated via [DownGit](https://downgit.github.io/#/home). (If you are curious, the sample materials are in the **student_resources** folder of [this GitHub repository](https://github.com/learn-static/collectionbuilder-workshop). We use DownGit so you don't have to download the entire repository to access just these files.)  |
+2. Upload the images to the images folder.
+4. Import metadata to Google Sheets and explore it. Then upload the metadata.
+5. Update _config.yml to direct the project to your new metadata file, senjafuda-metadata.csv
