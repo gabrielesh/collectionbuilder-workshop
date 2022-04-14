@@ -1,8 +1,9 @@
 #########
 #
-# workshop-template-s, evanwill
-# a Jekyll template for a simple workshop website
-# https://github.com/evanwill/workshop-template-s
+# Learn-Static Lesson Template
+# a Jekyll template for a simple lesson or workshop website
+# with a sidebar content nav layout
+# https://github.com/learn-static/lesson-template
 #
 #########
 
@@ -17,19 +18,38 @@ title: Building Digital Projects Using CollectionBuilder
 # some options: code-slash file-code gear tools lightblub book bookmark-star
 title-icon: activity
 # description, keywords, and image for meta tags
-description: "Lesson Plans and Materials for a Workshop"
-# featured-image: "/images/uidaho-workshop.jpg"
-# add search box to footer? true/false
-search: true
+description: "Lesson Plans and Materials for a CollectionBuilder Workshop"
+# keywords for meta tags used by search engines
+keywords: "collectionbuilder, workshops, websites, gh-pages, jekyll"
+# image for meta tags, will appear when sharing link on social media
+featured-image: "/images/uidaho-workshop.jpg"
 
-# author settings for cc-by, appears in the footer and credits
+# author name, displayed in credits
 author: Gabriele Hayden & Kate Thornhill
-# your github username for link [optional]
-github_username: learn-static
-# year or date published
-pub_year: 2022
+# year or date published, displayed in sidebar
+publication_year: 2022
 # location of code, the full url to your github repository
-source-code: https://github.com/gabrielesh/cb-workshop-for-learn-static
+source-code: https://github.com/learn-static/collectionbuilder-workshop
+# content license (typically "cc by-sa"), displayed in sidebar
+content_license: "CC BY-SA"
+# URL to the content license
+content_license_link: https://creativecommons.org/licenses/by-sa/4.0/
+
+##########
+# THEME CUSTOMIZATION [optional!]
+#
+# leave these commented out or blank for defaults.
+# these options tweak CSS, so should be valid CSS values.
+#
+# header-background: 
+# header-text-color: 
+# breadcrumbs-background: 
+# breadcrumbs-text-color: 
+# active-nav-color: 
+# link-color:
+# next-button-color:
+# text-color: 
+# base-font-size:
 
 ##########
 # URL VARIABLES [optional!]
@@ -44,13 +64,6 @@ source-code: https://github.com/gabrielesh/cb-workshop-for-learn-static
 # baseurl is your github repository's name prefixed with a /
 # baseurl:
 
-
-##########
-# GOOGLE ANALYTICS [optional!]
-#
-# leave this blank or comment out to NOT include google code
-# Add your google-analytics-id to automatically add the embed code, e.g. "UA-76328753-1"
-google-analytics-id:
 
 ##########
 # ROBOTS EXCLUDE [optional!]
