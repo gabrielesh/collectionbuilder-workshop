@@ -133,6 +133,7 @@ Now it's time to turn on the webpage associated with this project.
 
 1. Navigate to the `_config.yml` and select the "pencil" button to go to editing mode.
 2. Notice that this controls the configuration of the entire website.
+3. Change the settings to something similiar to what you see here, and put your name where it says "Your Name":
 
 ```
 ##########
@@ -146,7 +147,7 @@ tagline: Depictions of Japanese Ghosts and Monsters
 # this description might appear in search result lists, keep around 160 characters max
 description: "A digital exhibit made using CollectionBuilder"
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: Gabriele Hayden
+author: Your Name
 
 ##########
 # COLLECTION SETTINGS
@@ -159,7 +160,8 @@ metadata: senjafuda-metadata
 
 ### Step 10. Explore the website
 
-Notice that there are some errors on the website
+1. Notice that it takes some time to deploy.
+2. Check the website, discover there are only 8 images appearing, and that there are text encoding errors for the macron (diacritical mark over the o) in several romanized Japanese words. UTF-8, the encoding Google Sheets uses for saving our CSVs, includes encoding for macrons. However, as this material was cut and pasted, the encoding was lost somewhere along the way.
 
 ### Step 11. Fix the errors in your metadata. 
 
@@ -167,14 +169,8 @@ Notice that there are some errors on the website
 2. In a new tab, navigate to the [student materials folder in this repository](https://raw.githubusercontent.com/learn-static/collectionbuilder-workshop/main/student_materials), and select the `senjafuda-metadata.csv`. Then select the "Raw" button in the top right hand corner to open just the contents of the csv. 
 3. Now select and copy the url associated with this metadata (https://raw.githubusercontent.com/learn-static/collectionbuilder-workshop/main/student_materials/senjafuda-metadata.csv).
 4. Now toggle back to your Google Sheets, and in cell A1, enter =IMPORTDATA("https://raw.githubusercontent.com/learn-static/collectionbuilder-workshop/main/student_materials/senjafuda-metadata.csv"). Instead of typing out the url, you can paste in between two quotes the web link you just copied. 
+5. Now correct the errors you found in the website. Here are [instructions to type a macron for Mac](https://support.apple.com/guide/mac-help/enter-characters-with-accent-marks-on-mac-mh27474/mac) and [instructions to type a macron for Windows](https://support.microsoft.com/en-us/office/keyboard-shortcuts-to-add-language-accent-marks-in-word-3801b103-6a8d-42a5-b8ba-fdc3774cfc76)
+6. Download the new Google sheets csv. Rename it senjafuta-metadata.csv.
+7. Re-upload, commit and confirm fix.  
 
-### Step 11. Configure your `_confi.yml` file
-
-### Step 12. E
-
-### Step 13. Fix the errors
-
-1. Download your metadata spreadsheet
-
-### Setp 14. 
 
