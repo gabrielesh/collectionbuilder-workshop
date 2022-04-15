@@ -8,6 +8,8 @@ Before we get started, let's clarify some terms:
 
 [GitHub](https://github.com/), a popular web platform for hosting Git repositories–i.e. a place to store and sync your project files online. Think of it as Google Drive for code with super robust "track changes" baked in. Built around the powerful version control of Git, it provides a handy web interface for managing, editing, and collaborating on repositories.
 
+Also before we get started, if you don't have a Google account, [please create one here](https://support.google.com/accounts/answer/27441?hl=en).
+
 ### Step 1. Create a GitHub account
 
 1. Go to <https://github.com>
@@ -124,25 +126,55 @@ Now it's time to turn on the webpage associated with this project.
 ### Step 9. Import our sample project images. 
 
 1. You can download the sample materials for our project using [this link](https://downgit.github.io/#/home?url=https://github.com/learn-static/collectionbuilder-workshop/tree/main/student_materials) generated via [DownGit](https://downgit.github.io/#/home). (If you are curious, the sample materials are in the **student_resources** folder of [this GitHub repository](https://github.com/learn-static/collectionbuilder-workshop). We use DownGit so you don't have to download the entire repository to access just these files.)  |
-2. Upload the images to the images folder.
+2. Upload the images you just downloaded to the images folder.
+3. Upload the senjafuda-metadata.csv file to the data folder.
 
+### Step 10. Configure your website
 
-### Import our sample project metadata
-
-Update the metadata 
-
-Now it's time to add a new file to your project.
-
-1. On your repository's home page, locate and click the "Add file" button, situated to the right above your repository's files. When this button is clicked, a drop-down menu will appear. Select the option "Create new file".
-2. An option to name your file will appear toward the top of your screen. Give your file the name: `new-file.txt`
-3. Add the following sentence to the body of your text file:
+1. Navigate to the `_config.yml` and select the "pencil" button to go to editing mode.
+2. Notice that this controls the configuration of the entire website.
 
 ```
-This is a new file in my GitHub repository.
+##########
+# SITE SETTINGS
+#
+# title of site appears in banner
+title: Yōkai Senjafuda
+# tagline, a short phrase that will appear throughout the site in the top banner
+tagline: Depictions of Japanese Ghosts and Monsters
+# description appears in meta tags and other locations
+# this description might appear in search result lists, keep around 160 characters max
+description: "A digital exhibit made using CollectionBuilder"
+# creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
+author: Gabriele Hayden
 
+##########
+# COLLECTION SETTINGS
+#
+# Set the metadata for your collection (the name of the csv file in your _data directory that describes the objects in your collection) 
+# Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
+metadata: senjafuda-metadata
 ```
 
-4. Commit your new file to your repository by adding the commit message `add new file` (just as you did in the "Make a Commit" section above), and pressing the green "Commit new file" button.
 
+### Step 10. Explore the website
 
-## Step 10. 
+Notice that there are some errors on the website
+
+### Step 11. Fix the errors in your metadata. 
+
+1. Navigate to [Google Sheets](https://docs.google.com/spreadsheets/u/0/), and create a new spreadsheet. For some basics on using spreadsheets, see  [this introduction](https://thecdil.github.io/hist-454-2022/spreadsheets.html).
+2. In a new tab, navigate to the [student materials folder in this repository](https://raw.githubusercontent.com/learn-static/collectionbuilder-workshop/main/student_materials), and select the `senjafuda-metadata.csv`. Then select the "Raw" button in the top right hand corner to open just the contents of the csv. 
+3. Now select and copy the url associated with this metadata (https://raw.githubusercontent.com/learn-static/collectionbuilder-workshop/main/student_materials/senjafuda-metadata.csv).
+4. Now toggle back to your Google Sheets, and in cell A1, enter =IMPORTDATA("https://raw.githubusercontent.com/learn-static/collectionbuilder-workshop/main/student_materials/senjafuda-metadata.csv"). Instead of typing out the url, you can paste in between two quotes the web link you just copied. 
+
+### Step 11. Configure your `_confi.yml` file
+
+### Step 12. E
+
+### Step 13. Fix the errors
+
+1. Download your metadata spreadsheet
+
+### Setp 14. 
+
