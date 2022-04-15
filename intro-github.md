@@ -1,4 +1,6 @@
-# Introduction to GitHub
+# Deploying CollectionBuilder on GitHub
+
+## Set up and Explore GitHub
 
 Before we get started, let's clarify some terms:
 
@@ -6,13 +8,13 @@ Before we get started, let's clarify some terms:
 
 [GitHub](https://github.com/), a popular web platform for hosting Git repositories–i.e. a place to store and sync your project files online. Think of it as Google Drive for code with super robust "track changes" baked in. Built around the powerful version control of Git, it provides a handy web interface for managing, editing, and collaborating on repositories.
 
-## Step 1. Create a GitHub account
+### Step 1. Create a GitHub account
 
 1. Go to <https://github.com>
 2. Click the "Sign up" button
 3. Enter your email and create a username and password to complete the sign up process
 
-## Step 2. Copy a GitHub Repository
+### Step 2. Copy a GitHub Repository
 
 Copy code from another repository into your own and start editing it.
 
@@ -25,7 +27,7 @@ Copy code from another repository into your own and start editing it.
     4. Leave the "Include all branches" option **Unchecked**!
     5. Click on the green button "**Create repository from template**". This will take you to your new repository.
 
-## Step 3. Edit README file
+### Step 3. Edit README file
 
 Explore your new repository. Note in particular these files and folders:
 - README.md - notice it has links to instructions for using this template
@@ -55,7 +57,7 @@ The first line at the top of the file will look like this:
 3. Delete this line of text and instead type `# My Project`.
 4. Proceed to the following section to learn how to save or "commit" your changes.
 
-## Step 4. Make a Commit
+### Step 4. Make a Commit
 
 When you make a commit, Git takes a snapshot of the changes you made and permanently stores it in your repository's history.
 Your "commit message" is a short description of what the changes do or why you made them--this is your note to the future to help everyone understand the code and history.
@@ -71,7 +73,7 @@ Commit messages and their timestamps are located to the right of the repository 
 
 ![README file](images/commit1-edited.png)
 
-## Step 5. View the Changes
+### Step 5. View the Changes
 
 Let's take a closer look at the changes you've made to the README file:
 
@@ -85,7 +87,7 @@ You are viewing the difference between the original version of your repository's
 
 3. Click your repository's name (located in the top left of the window) to return to the repository's home page.
 
-## Step 6. Check Out the Repository's History
+### Step 6. Check Out the Repository's History
 
 Let's view all the changes we've made to the repository so far.
 
@@ -97,7 +99,7 @@ You are now viewing your repository's history (all the commits that have ever be
 3. Click on the commit message `update project title` to view the changes that were made as part of that commit.
 4. Click your repository's name (located in the top left of the window) to return to the repository's home page.
 
-## Step 7. Turn on GitHub Pages (Make this demo project a website!)
+### Step 7. Turn on GitHub Pages (Make this demo project a website!)
 
 Now it's time to turn on the webpage associated with this project.
 
@@ -110,21 +112,22 @@ Now it's time to turn on the webpage associated with this project.
 7. Click on the Settings gear icon located in the "About" box located to the right of the green "Code" button to bring up the "Edit repository details" screen. 
 8. Paste your website url into the "Website" box, and click the green "Save Changes" button.
 
-## Step 8. Explore the relationship between your repository and the website
+### Step 8. Explore the relationship between your repository and the website
 
 1. Open the link to the website in the "About" section of your repository in a new window or tab and explore the website.
 2. Returning to your repository, click into the objects folder: note the images, which correspond to the images on the website, and the readme.md file with instructions on adding images to your project.
 3. Click into the pages folder: note that the names of the markdown pages here correspond to the names of the main page on the website.
 4. Note that these markdown pages are not the final pages served by Jekyll. Rather, they instruct Jekyll on how to create the final html pages served by GitHub pages. You can see that final html by navigating to the website. Right click “view page source” to see the html that creates these web pages. 
 
-## Step 9. Download our sample project metadata and images. 
+## Configure your Demo Project
+
+### Step 9. Import our sample project images. 
 
 1. You can download the sample materials for our project using [this link](https://downgit.github.io/#/home?url=https://github.com/learn-static/collectionbuilder-workshop/tree/main/student_materials) generated via [DownGit](https://downgit.github.io/#/home). (If you are curious, the sample materials are in the **student_resources** folder of [this GitHub repository](https://github.com/learn-static/collectionbuilder-workshop). We use DownGit so you don't have to download the entire repository to access just these files.)  |
 2. Upload the images to the images folder.
-4. Import metadata to Google Sheets and explore it. Then upload the metadata.
-5. Update _config.yml to direct the project to your new metadata file, senjafuda-metadata.csv
 
-## 
+
+### Import our sample project metadata
 
 Update the metadata 
 
@@ -141,17 +144,5 @@ This is a new file in my GitHub repository.
 
 4. Commit your new file to your repository by adding the commit message `add new file` (just as you did in the "Make a Commit" section above), and pressing the green "Commit new file" button.
 
-## Step 9. (Optional) Add a GitHub Collaborator
-
-Most digital projects are collaborative, so you will probably want to add your collaborators to your GitHub project repository.
-
-1. On the repository home page, click the "Settings" tab
-2. On the left side nav, click "Manage access"
-3. Click the green "invite teams or people" button
-4. Type in a GitHub username to add (the search bar will show suggestions based on what you type). Select the correct account to add.
-5. Select your collaborator's level of access to the repository. Generally if you want people to be able to edit code in the repository, give them "Write" access. Then click the green "Add" button.
-
-Once added your collaborator will receive an email with the invitation to join your repository.
-They will have to confirm the invitation before being added!
 
 ## Step 10. 
