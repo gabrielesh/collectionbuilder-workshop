@@ -1,5 +1,5 @@
-# Introduction to Markdown
-This brief module provides instructions that give newcomers experience using Markdown, a markup language for adding formatting elements to plain text files. You can think of this module supporting your work by teaching you how to laydown the structural bones of a website. Before we begin using Markdown, let's clarify what is Markdown and give it context.
+# Using Markdown to Write and Edit CollectionBuilder Pages
+This brief module will give you experience using Markdown, a markup language for adding formatting elements to plain text files, to edit the About page of your sample project. This module will teach you how to add the content that gives your site meaning. Before we begin using Markdown, let's clarify what is Markdown and give it context.
 
 ## What is Markdown?
 Markdown is a plain text formatting syntax that helps to make writing for the Internet easier. It allows for a straight-forward way to structure text, links, images, code, tables, and lists within a plain text document without using tags like those used to markup plain text documents with HTML.
@@ -10,32 +10,17 @@ Markdown is a plain text formatting syntax that helps to make writing for the In
 - It converts easily to HTML
 - It is future-friendly. This means Markdown within a plain text file that has the file extension `.md` can be opened and used by any current day or future computer program. There is no reason to worry about outdated verisons of your plain text files.
 
-# Let's make a Markdown file using GitHub
+## Edit the about.md file in your Pages directory
 
-## Create `index.md` within a GitHub repository
-Before we can add Markdown to a plain text file, we need to make one within GitHub.
-
-1. Create a new repository or use one that you've already made while working through [foundations-0-github](https://github.com/learn-static/foundations-0-github).
-2. Once you are in the repository, click Add file and then Create new file.
-![Figure describing where to create a new file. It has the description "Click here to create a new file.](/assets/images/markdown-001.png)
-3. Type `index.md` into the box that is to the right of foundations-2-markdown. In your example the repository name will be whatever your titled it. Also, by taking this step you will have produced a Markdown text file. 
-![Figure describing where to type the file name index.md. It has the description "Type index.md into this box."](/assets/images/markdown-002.png)
-4. Navigate to Commit new file. It is at the bottom of the page.
-5. Within the second input box that says "Add an optional extended description..." add a description about what you just did. If you are not sure how to make a commit, visit [foundations-0-github](https://github.com/learn-static/foundations-0-github) for instructions.
-![Figure showing where to add an explaination before making a commit to GitHub. It also shows where to click to make a commit.](/assets/images/markdown-003.png)
-6. Click Commit new file
-7. After you have made your commit then you will be on your repository's home page. You should now see `index.md` in your list of files
-
-## Open `index.md` to begin writing with Markdown
-1. Click `index.md` to open it.
-![Figure showing where to click and open the index.md file. There is an explaination to click directly on the file name.](/assets/images/markdown-004.png)
-2. Click the pencil icon to edit `index.md`
-![Figure showing where to click and edit the index.md file. There is an explaination to click directly on the pencil icon.](/assets/images/markdown-005.png)
+### Open `about.md` to begin writing with Markdown
+1. Navigate to the `pages` directory and click `about.md` to open it.
+2. Click the pencil icon to edit `about.md`
+![Figure showing where to click and edit the about.md file. There is an explaination to click directly on the pencil icon.](/assets/images/markdown-005.png)
 3. You are now in edit mode and can begin writing.
 
-# Let's write using Markdown
+## Write using Markdown
 
-When writing on the Internet with Markdown, we use it's synax to format text in structured ways using...
+When writing on the Internet with Markdown, we use its synax to format text in structured ways using
 
 - Headings
 - Paragraphs and Line Breaks
@@ -49,7 +34,7 @@ For this learning exercise, we will learn how to use headings, paragraphs, line 
 
 ## How-to Add Headings
 ### About Headings
-Markdown uses `#` to give structure to a web page's layout, and there are different heading levels to use while writing. Headings are organized in a hierarchical order that create sections on a web page. You must not breaking this order because it will make the readability of your web page content visuall difficult to read, and will have negative impact on the readability, navigation, and accessibility of your web page. To learn more about headings and web accessibility visit [A11y styleguide - Structure](https://a11y-style-guide.com/style-guide/section-structure.html)
+Markdown uses `#` to give structure to a web page's layout, and there are different heading levels to use while writing. Headings are organized in a hierarchical order that create sections on a web page. Breaking this order will have a negative impact on the readability, navigation, and accessibility of your web page. To learn more about headings and web accessibility visit [A11y styleguide - Structure](https://a11y-style-guide.com/style-guide/section-structure.html)
 
 ```# Heading 1
 ## Heading 2
@@ -59,8 +44,8 @@ Markdown uses `#` to give structure to a web page's layout, and there are differ
 ###### Heading 6
 ```
 ### Let's apply this to GitHub ###
-1. Get into `index.md` edit mode that you previously made.
-2. Add two headings using this code -- heading 1 and heading 2. You are welcome to use whatever text you like, but example text is available here.
+1. Enter `about.md` edit mode.
+2. Add two headings using this code -- heading 1 and heading 2. You are welcome to use whatever text you like, but the example text  available here will allow you to continue building your demo Yōkai Senjafuda website.
 
 Here are two examples that show Markdown in code form and then what Markdown looks like on a web page.
 
@@ -80,9 +65,9 @@ You will need to write in Markdown using the Edit file box. This example image s
 
 ![Figure showing a preview of how headings will render on a web page.](/assets/images/markdown-008.png)
 
-## How-to Add Paragraphs and Line Breaks
+## How to Add Paragraphs and Line Breaks
 ### About Paragraphs and Line Breaks
-Adding paragraphs does not require Markdown. You only just need to writing. Line breaks work just by using a keyboard return button.
+Create new paragraphs using a blank line to separate one or more lines of text.
 
 Here is an Markdown code example that uses headings, paragraph, and line breaks together. The image below this code is an example of how it renders on a web page.
 
@@ -128,8 +113,8 @@ uses senjafuda to explore yōkai culture, and yōkai to explore senjafuda cultur
 Add this code to the Edit tab and then click Preview. The Markdown will render the text as illustrated in the figure below.
 
 ### Let's apply this to GitHub ###
-1. Within the Edit file tab of `index.md`, apply italics, bold, and combined italics and bold to the words and paragraph identified in the above code. It should already be present for you to edit inside the Edit file tab.
-2. Now click Preview to see how it renders. It should look like the figure below.
+1. In edit mode in the file `about.md`, apply italics, bold, and combined italics and bold to the words and paragraph identified in the above code. 
+2. Click Preview at the top of the edit box to see how it renders. It should look like the figure below.
 
 ![Figure showing how Markdown emphasis renders.](/assets/images/markdown-010.png)
 
@@ -139,7 +124,7 @@ Add this code to the Edit tab and then click Preview. The Markdown will render t
 There are two types of lists to use with Markdown, ordered and unordered lists.
 
 **Ordered Lists**
-To make an ordered list use numbers to make it. For every new list item add it on a new line.
+Use numbers to make an ordered list. Add every new list item on a new line.
 
 ```
 These are the digital collections used to making the digital exhibit.
@@ -148,7 +133,7 @@ These are the digital collections used to making the digital exhibit.
 ```
 
 **Unordered Lists** 
-To make an unordered list use `-` to make it. For every new list item add it on a new line.
+To make an unordered list use `-`. Add every new list item on a new line.
 
 ```
 These are categories of ghosts and monsters that are found in the digital exhibit.
@@ -160,7 +145,7 @@ These are categories of ghosts and monsters that are found in the digital exhibi
 ```
 
 ### Let's apply this to GitHub ###
-1. Within the Edit file tab of `index.md`, add these lists and the sentence above them under the heading "Senjafuda collections at the University of Oregon"
+1. In Edit mode in `about.md`, add these lists and the sentence above them under the heading "Senjafuda collections at the University of Oregon"
 
 ![Figure showing how lists render.](/assets/images/markdown-011.png)
 
@@ -184,7 +169,7 @@ Making a link using Markdown looks like this:
 ```
 
 ### Let's apply this to GitHub ###
-1. Within the Edit file tab of ```index.md```, add a link to the Yōkai Senjafuda Digital Exhibit under the header "Yōkai Senjafuda: Stories about Ghosts and Monsters".
+1. Within Edit mode in `about.md`, add a link to the Yōkai Senjafuda Digital Exhibit under the header "Yōkai Senjafuda: Stories about Ghosts and Monsters".
 
 Your Markdown code should look like this:
 
@@ -297,7 +282,7 @@ Here is an example of what the Markdown code looks like.
 # Let's Make a Commit
 Now we're ready to make a commit because you've just finished creating your first web page that used Markdown to structure text.
 
-1. Go to the bottom of your `index.md` file while still in edit mode.
+1. Go to the bottom of your `about.md` file while still in edit mode.
 2. Find the "Commit changes" section
 3. Title your commit and then add a description about what you are committing.
 
