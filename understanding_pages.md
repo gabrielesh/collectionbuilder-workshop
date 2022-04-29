@@ -1,5 +1,7 @@
 # Understanding markdown pages
 
+The `pages` in your CollectionBuilder project tell Jekyll what to render, or translate into a static HTML file. Therefore they are what we want to change if we are going to change any of the *content* of your project website. 
+
 Your about.md page contains three main elements:
 * Page text, written in Markdown
 * A header that tells Jekyll how to interpret the page
@@ -11,8 +13,10 @@ We will spend the majority of our class time discussing Markdown, but first let'
 When you click into `/pages/about.md`, you will see at the top of the page a header rendered as a table:
 ![Image of a header in GitHub](/images/about-header.png)
 
-When you click into the `Raw` view, you can see that the underlying text has the structure of a yaml file:
+When you click into the `Raw` view, you can see that the underlying text has the structure of a yml file:
 ![image of the yaml header of the about page in raw text](/images/about-header-raw.png)
+
+This yml text instructs Jekyll what to call the page (`title: About`), what layout template to use (`layout: about` -- more on this later), and whether to include information at the bottom of the page (credits)
 
 ## Liquid includes
 
