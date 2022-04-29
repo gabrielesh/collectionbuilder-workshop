@@ -55,15 +55,15 @@ Markdown Example
 ## Senjafuda collections at the University of Oregon
 ```
 Markdown Rendering Example
-![Figure showing the rendering of heading 1 and heading 2.](/assets/images/markdown-006.png)
+![Figure showing the rendering of heading 1 and heading 2.](/images/markdown-006.png)
 
 You will need to write in Markdown using the Edit file box. This example image shows where you would start writing in Markdown.
-![Figure showing where to add headings.](/assets/images/markdown-007.png)
+![Figure showing where to add headings.](/images/markdown-007.png)
 
 
 3. Click the Preview tab that is to the right of the Edit File tab. This will allow you to see how your headings will render on a web page.
 
-![Figure showing a preview of how headings will render on a web page.](/assets/images/markdown-008.png)
+![Figure showing a preview of how headings will render on a web page.](/images/markdown-008.png)
 
 ## How to Add Paragraphs and Line Breaks
 ### About Paragraphs and Line Breaks
@@ -87,7 +87,7 @@ The University of Oregon’s collection of senjafuda is one of the largest in th
 1. Add these paragraphs and line breaks under the heading "Yōkai Senjafuda: Stories about Ghosts and Monsters" to the Edit tab
 2. Now click Preview to see how it renders. It should look like the figure below.
 
-![Figure showing how headings, paragraphs, and line breaks render.](/assets/images/markdown-009.png)
+![Figure showing how headings, paragraphs, and line breaks render.](/images/markdown-009.png)
 
 
 ## How-to Add Emphasis
@@ -116,7 +116,7 @@ Add this code to the Edit tab and then click Preview. The Markdown will render t
 1. In edit mode in the file `about.md`, apply italics, bold, and combined italics and bold to the words and paragraph identified in the above code. 
 2. Click Preview at the top of the edit box to see how it renders. It should look like the figure below.
 
-![Figure showing how Markdown emphasis renders.](/assets/images/markdown-010.png)
+![Figure showing how Markdown emphasis renders.](/images/markdown-010.png)
 
 
 ## How-to Add Lists
@@ -147,11 +147,11 @@ These are categories of ghosts and monsters that are found in the digital exhibi
 ### Let's apply this to GitHub ###
 1. In Edit mode in `about.md`, add these lists and the sentence above them under the heading "Senjafuda collections at the University of Oregon"
 
-![Figure showing how lists render.](/assets/images/markdown-011.png)
+![Figure showing how lists render.](/images/markdown-011.png)
 
 2. Now click Preview to see how it renders. It should look like the figure below.
 
-![Figure showing how lists render.](/assets/images/markdown-012.png)
+![Figure showing how lists render.](/images/markdown-012.png)
 
 ## How to Add Links
 ### About Links
@@ -177,7 +177,7 @@ Your Markdown code should look like this:
 
 2. Now click Preview to see how it renders. It should look like the figure below.
 
-![Figure showing how lists render.](/assets/images/markdown-014.png)
+![Figure showing how lists render.](/images/markdown-014.png)
 
 ## How to Add Images
 ### About Images
@@ -204,11 +204,11 @@ Here is an example of what the Markdown code looks when you add an image.
 **Optional Image Title:** Two-unit votive slip with double black border. Stone buddha scultpure with supernatural surroundings. Multiple white slips with black text at top.
 
 Here is an example of what your image code should look like.
-![Figure showing where to add the Markdown image code to the Edit file tab.](/assets/images/markdown-015.png)
+![Figure showing where to add the Markdown image code to the Edit file tab.](/images/markdown-015.png)
 
 2. Click Preview to see how it renders. It should look like the figure below.
 
-![Figure showing an image rendered within the Edit file tab.](/assets/images/markdown-016.png)
+![Figure showing an image rendered within the Edit file tab.](/images/markdown-016.png)
 
 ## How to Add Blockquotes
 ### About Blockquotes
@@ -273,10 +273,10 @@ Use this text to make the multi-paragraph blockquote.
 >Henry Smith has examined Starr's scholarly interest in Japan in detail, noting Starr's consistent attention to the religious dimension of culture—clearly visible in senjafuda, as this exhibition shows. Smith also notes that Starr's interest in “the social matrices in which these objects came to be collected, depicted, and exchanged in…distinctive subcultures of modern Japan” gives his work value in a contemporary context as well. But Starr had an eye for phenomena that appealed to a playful as well as a scholarly bent. When asked by a reporter for a Japanese newspaper what his interests were, he reeled off a list that began with kappa and tengu. It's no wonder, then, that yōkai are well represented in his senjafuda collection.
 
 Here is an example of what the Markdown code looks like.
-![Figure showing what Markdown for a multi-paragraph blockquote looks like within the Edit file tab.](/assets/images/markdown-017.png)
+![Figure showing what Markdown for a multi-paragraph blockquote looks like within the Edit file tab.](/images/markdown-017.png)
 
 2. Click Preview to see how it renders. It should look like the figure below.
-![Figure showing what Markdown for a multi-paragraph blockquote looks like within the Edit file tab.](/assets/images/markdown-018.png)
+![Figure showing what Markdown for a multi-paragraph blockquote looks like within the Edit file tab.](/images/markdown-018.png)
 
 
 # Let's Make a Commit
