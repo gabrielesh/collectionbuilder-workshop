@@ -9,10 +9,10 @@ We will spend the majority of our class time discussing Markdown, but first let'
 
 ## Document header
 When you click into `/pages/about.md`, you will see at the top of the page a header rendered as a table:
-[Image of a header in GitHub](/images/about-header.png)
+![Image of a header in GitHub](/images/about-header.png)
 
 When you click into the `Raw` view, you can see that the underlying text has the structure of a yaml file:
-[image of the yaml header of the about page in raw text](/images/about-header-raw.png)
+![image of the yaml header of the about page in raw text](/images/about-header-raw.png)
 
 ## Liquid includes
 
