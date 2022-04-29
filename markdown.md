@@ -15,7 +15,7 @@ Markdown is a plain text formatting syntax that helps to make writing for the In
 ### Open `about.md` to begin writing with Markdown
 1. Navigate to the `pages` directory and click `about.md` to open it.
 2. Click the pencil icon to edit `about.md`
-![Figure showing where to click and edit the about.md file. There is an explaination to click directly on the pencil icon.](/assets/images/markdown-005.png)
+![Figure showing where to click and edit the about.md file. There is an explaination to click directly on the pencil icon.](/images/markdown-005.png)
 3. You are now in edit mode and can begin writing.
 
 ## Write using Markdown
