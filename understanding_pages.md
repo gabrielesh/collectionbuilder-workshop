@@ -31,7 +31,9 @@ Jekyll uses the Liquid templating language to process templates. Generally in Li
 
 Think of a directory with names, phone numbers, email addresses and pictures. If we can just create one template for how each person's information shows up on the page, that saves us a lot of time and coding -- and puts more emphasis on clean data than on repeated code. 
 
-Our `about.md` page has several Liquid code snippets that start with <img src="https://github.com/learn-static/collectionbuilder-workshop/blob/main/images/include.png" width="100" />. See if you can guess what these code snippets do by reading them and comparing them to what appears on your About page on your front end website. You can [read more about Liquid include tags here](https://shopify.dev/api/liquid/tags/deprecated-tags#include).
+Our `about.md` page has several Liquid code snippets that start with 
+<img src="https://github.com/learn-static/collectionbuilder-workshop/blob/main/images/include.png" width="100" /> 
+See if you can guess what these code snippets do by reading them and comparing them to what appears on your About page on your front end website. You can [read more about Liquid include tags here](https://shopify.dev/api/liquid/tags/deprecated-tags#include).
 
 ## Markdown
 
