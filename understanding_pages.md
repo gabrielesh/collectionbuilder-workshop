@@ -39,7 +39,7 @@ Our `about.md` page has several Liquid code snippets that start with a curly bra
 
 See if you can guess what these code snippets do by reading them and comparing them to what appears on your About page on your front end website. You can [read more about Liquid include tags here](https://shopify.dev/api/liquid/tags/deprecated-tags#include).
 
-Notice that the code snipped above references a file folder (`cb`) and a specific file (`about_the_about.md`). *Look at the names of the top level folders in your CollectionBuilder project: can you guess which folder might contain Liquid `include` code snippets?* Test your guess by clicking through to see if you can find the folder and file referenced here.
+Notice that the code snipped above references a file folder (`cb`) and a specific file (`about_the_about.md`). *Look at the names of the top level folders in your CollectionBuilder project: can you guess which folder might contain Liquid* `include` *code snippets?* Test your guess by clicking through to see if you can find the folder and file referenced here.
 
 ## Markdown
 
