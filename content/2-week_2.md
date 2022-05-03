@@ -1,7 +1,7 @@
 ---
 nav_order: 3
-title: Week 2. Understanding Markdown and HTML
-topics: Markdown; HTML
+title: Week 2. Using Markdown to Write and Edit CollectionBuilder Pages
+topics: HTML; Markdown; Liquid code snippets
 ---
 
 ## CollectionBuilder Workshop 2: Understanding Markdown and HTML

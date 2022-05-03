@@ -1,7 +1,7 @@
 ---
 nav_order: 2
 title: Week 1. Building a Digital Archive using CollectionBuilder
-topics: 
+topics: version control; git; GitHub; metadata; spreadsheets; Google Sheets
 ---
 
 ## Week 1: Building a Digital Archive using CollectionBuilder
