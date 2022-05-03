@@ -4,12 +4,7 @@ title: Week 2. Using Markdown to Write and Edit CollectionBuilder Pages
 topics: HTML; Markdown; Liquid code snippets
 ---
 
-## CollectionBuilder Workshop 2: Understanding Markdown and HTML
-
-**Learning Sequence Description**
-
-
-----------
+## CollectionBuilder Workshop 2: Using Markdown to Write and Edit CollectionBuilder Pages
 
 **Learning Objectives and Aligned Assessments**
 
@@ -30,7 +25,7 @@ RESOURCES
 | Resource Type  | Links & Materials   |
 | ---------------------- | ----------------- |
 | Instructor Materials   | -  Internet-connected computer, ideally with video camera. <br>- Zoom account or other virtual meeting tool that has web conferencing features for chat, audio, and video.  <br>- [Learn Static Workshop Pages](https://learn-static.github.io/collectionbuilder-workshop/) <br>- GitHub account <br>- Google account for using Sheets|
-| Learner Materials   | - Internet-connected computer, ideally with video camera. <br>- Zoom account or other virtual meeting tool that has web conferencing features for chat, audio, and video. <br>- Google account for using Sheets<br>- [Learn Static HTML Module](https://github.com/learn-static/foundations-1-html) <br>- [Learn Static Markdown Module](https://github.com/learn-static/foundations-2-markdown)|
+| Learner Materials   | - Internet-connected computer, ideally with video camera. <br>- Zoom account or other virtual meeting tool that has web conferencing features for chat, audio, and video. <br>- Google account for using Sheets<br>- Week 2 Student Guides: [Understanding CollectionBuilder Pages](https://github.com/learn-static/collectionbuilder-workshop/blob/main/understanding_pages.md#understanding-collectionbuilder-pages) and [Using Markdown to Write and Edit CollectionBuilder Pages](https://github.com/learn-static/collectionbuilder-workshop/blob/main/markdown.md#using-markdown-to-write-and-edit-collectionbuilder-pages). This content builds on our generic [Learn Static Markdown Module](https://github.com/learn-static/foundations-2-markdown)|
 {:.table .table-bordered}
 
 
@@ -42,7 +37,6 @@ LEARNING SEQUENCE OUTLINE
 | -------------- | --------------- | ----------- |
 | 1. 5 minutes   | Icebreaker   |         |
 | 2. 5 minutes   | Workshop Overview | 1. Review website structure, Markdown content <br>2. Introduce dillinger.io as a place to explore Markdown -> HTML  |
-| 3. 10 minutes  | Activity | Revise the standard dillinger.io document to - create a new bulleted list, - create a new hyperlink, create new level 1 and level 2 headers. <br>- Explore how these changes affect the website |
 | 4. 5 minutes | Activity set-up  | Review how to modify GitHub markdown |
 | 5. 15 minutes  | Activity: update formatting of markdown in your project |  |
 | 5. 35 minutes  | Review Metadata? Or modify CSS? | TBD  |
