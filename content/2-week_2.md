@@ -4,8 +4,6 @@ title: Week 2. Using Markdown to Write and Edit CollectionBuilder Pages
 topics: HTML; Markdown; Liquid code snippets
 ---
 
-## CollectionBuilder Workshop 2: Using Markdown to Write and Edit CollectionBuilder Pages
-
 **Learning Objectives and Aligned Assessments**
 
 | Learning Objectives | Aligned Assessments |

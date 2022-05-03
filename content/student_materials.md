@@ -1,7 +1,7 @@
 ---
-nav_order: 4
+nav_order: 5
 title: Student Materials
-topics: 
+topics: student guide; additional resources
 ---
 
 ### To Bring to the Workshops
@@ -14,7 +14,7 @@ Before class, be sure that you have the following materials:
 ## Resources for Each Class Session
 
 #### Week 1: Building a Digital Archive using CollectionBuilder
-- The [Week 1 Student Guide: Deploying CollectionBuilder on GitHub](https://github.com/learn-static/collectionbuilder-workshop/blob/main/intro-github.md#deploying-collectionbuilder-on-github) offers step-by-step instructions for completing all of the activities covered by the first workshop. 
+- The Week 1 Student Guide, [Deploying CollectionBuilder on GitHub](https://github.com/learn-static/collectionbuilder-workshop/blob/main/intro-github.md), offers step-by-step instructions for completing all of the activities covered by the first workshop. 
 - During the first week of this workshop you will be customizing your CollectionBuilder-GH template using materials in the **student_resources** folder of [this GitHub repository](https://github.com/learn-static/collectionbuilder-workshop), which may be downloaded separately from the entire repository using [this link](https://downgit.github.io/#/home?url=https://github.com/learn-static/collectionbuilder-workshop/tree/main/student_materials) generated via [DownGit](https://downgit.github.io/#/home) 
 
 ##### Additional Resources for Week 1:
@@ -27,7 +27,7 @@ Before class, be sure that you have the following materials:
 - If you want to learn more about how to clean data in bulk, another good resource is the free software OpenRefine. You can learn about it using this tutorial by Miriam Posner on [cleaning data using OpenRefine](https://github.com/miriamposner/get-started-with-openrefine/blob/master/get-started-with-openrefine.md), or [this one from the Programming Historian](http://programminghistorian.org/en/lessons/cleaning-data-with-openrefine). 
 
 #### Week 2: Using Markdown to Write and Edit CollectionBuilder Pages
-- The week 2 student guides offer step-by-step instructions for completing all of the activities covered by the first workshop: [Understanding CollectionBuilder Pages](https://github.com/learn-static/collectionbuilder-workshop/blob/main/understanding_pages.md#understanding-collectionbuilder-pages) and [Using Markdown to Write and Edit CollectionBuilder Pages](https://github.com/learn-static/collectionbuilder-workshop/blob/main/markdown.md#using-markdown-to-write-and-edit-collectionbuilder-pages). 
+- The week 2 student guides offer step-by-step instructions for completing all of the activities covered by the first workshop: [Understanding CollectionBuilder Pages](https://github.com/learn-static/collectionbuilder-workshop/blob/main/understanding_pages.md) and [Using Markdown to Write and Edit CollectionBuilder Pages](https://github.com/learn-static/collectionbuilder-workshop/blob/main/markdown.md). 
 
 ##### Additional Resources for Week 2:
 - Most questions you may have will be answered by the [CollectionBuilder documentation](https://collectionbuilder.github.io/cb-docs/). Material we covered in Week 2 is primarily addressed in the section on [Page Basics](https://collectionbuilder.github.io/cb-docs/docs/pages/basics/).
@@ -36,7 +36,7 @@ Before class, be sure that you have the following materials:
 - This workshop mentions HTML in passing, but doesn't go into great detail. If you are interested in learning more about how HTML strutures web pages, consider exploring our asynchronous guide to HTML: [Learn Static HTML Module](https://github.com/learn-static/foundations-1-html).
 
 #### Week 3: Customizing your CollectionBuilder Project
-Week 3 Student Guide: 
+- The Week 3 Student Guide, [Customizing your CollectionBuilder Project](https://github.com/learn-static/collectionbuilder-workshop/blob/main/customizing_project.md), offers step-by-step instructions for completing all of the activities covered by the first workshop. 
 
 ##### Additional Resources for Week 3:
 - Most questions you may have will be answered by the [CollectionBuilder documentation](https://collectionbuilder.github.io/cb-docs/). Material we covered in Week 3 is primarily addressed in the sections on [Theme Options](https://collectionbuilder.github.io/cb-docs/docs/theme/) and [Page Config](https://collectionbuilder.github.io/cb-docs/docs/customization/).

@@ -4,8 +4,6 @@ title: Week 1. Building a Digital Archive using CollectionBuilder
 topics: version control; git; GitHub; metadata; spreadsheets; Google Sheets
 ---
 
-## CollectionBuilder Workshop 1: Building a Digital Archive using CollectionBuilder
-
 In this workshop series you will learn how to create a website displaying a digital collection using free, open-source software (CollectionBuilder). Faculty, researchers, students, and staff are welcome. This workshop series is appropriate for anyone who wants to learn to build their own website to display a digital collection, whether for a class, a grant, or a digital humanities project. You can also use this software to create a personal website showcasing your professional portfolio as an architect, designer, or artist. You should be comfortable learning new things, but no prior experience with web design is required.
 
 We will begin by exploring what a digital collection is. We will help you set up an account on GitHub—the platform that will host our website for free—and show you a little bit about how interact with that platform. In the second hour of the workshop, you will learn to import sample data into a project. By the end of the session, you will have a live website!
