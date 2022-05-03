@@ -4,7 +4,9 @@ The `pages` in your CollectionBuilder project tell Jekyll what to render, or tra
 
 ## The Final Result: An HTML-based Page
 
-Open the About page within your demo project. Right click or control click on the page and choose "View Page Source" from the popup menu. Take a moment to explore the text that appears: this is the HTML that controls how text and images appear on the screen. This is the final version of the site that Jekyll *generates* from the instructions we give it. Take a moment to [learn more about HTML from this short tutorial](https://github.com/learn-static/foundations-1-html/blob/main/2-example.md).
+1. Open the About page within your demo project. 
+2. Right click or control click on the page and choose "View Page Source" from the popup menu. 
+3. Take a moment to explore the text that appears: this is the HTML that controls how text and images appear on the screen. This is the final version of the site that Jekyll *generates* from the instructions we give it. 4. Take a moment to [learn more about HTML from this short tutorial](https://github.com/learn-static/foundations-1-html/blob/main/2-example.md).
 
 ## Elements of a CollectionBuilder page
 
@@ -37,7 +39,7 @@ Our `about.md` page has several Liquid code snippets that start with a curly bra
 
 See if you can guess what these code snippets do by reading them and comparing them to what appears on your About page on your front end website. You can [read more about Liquid include tags here](https://shopify.dev/api/liquid/tags/deprecated-tags#include).
 
-Notice that the code snipped above references a file folder (`cb`) and a specific file (`about_the_about.md`). Look at the names of the top level folders in your CollectionBuilder project: can you guess which folder might contain Liquid `include` code snippets? Test your guess by clicking through to see if you can find the folder and file referenced here.
+Notice that the code snipped above references a file folder (`cb`) and a specific file (`about_the_about.md`). *Look at the names of the top level folders in your CollectionBuilder project: can you guess which folder might contain Liquid `include` code snippets?* Test your guess by clicking through to see if you can find the folder and file referenced here.
 
 ## Markdown
 
