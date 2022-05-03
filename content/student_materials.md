@@ -14,6 +14,8 @@ Before class, be sure that you have the following materials:
 ## Resources for Each Class Session
 
 #### Week 1: Building a Digital Archive using CollectionBuilder
+During the first week's workshop, we will explore what CollectionBuilder as a platform is good for — making digital collections publicly available online. You will learn how to make a free GitHub account and begin interacting with the digital collections platform. You will learn how to upload digital collections into your CollectionBuilder site and gain experience with the very basics of working with metadata. By the end of the session, you will have a live digital collection to show anyone in the world!
+
 - The Week 1 Student Guide, [Deploying CollectionBuilder on GitHub](https://github.com/learn-static/collectionbuilder-workshop/blob/main/intro-github.md), offers step-by-step instructions for completing all of the activities covered by the first workshop. 
 - During the first week of this workshop you will be customizing your CollectionBuilder-GH template using materials in the **student_resources** folder of [this GitHub repository](https://github.com/learn-static/collectionbuilder-workshop), which may be downloaded separately from the entire repository using [this link](https://downgit.github.io/#/home?url=https://github.com/learn-static/collectionbuilder-workshop/tree/main/student_materials) generated via [DownGit](https://downgit.github.io/#/home) 
 
@@ -27,6 +29,8 @@ Before class, be sure that you have the following materials:
 - If you want to learn more about how to clean data in bulk, another good resource is the free software OpenRefine. You can learn about it using this tutorial by Miriam Posner on [cleaning data using OpenRefine](https://github.com/miriamposner/get-started-with-openrefine/blob/master/get-started-with-openrefine.md), or [this one from the Programming Historian](http://programminghistorian.org/en/lessons/cleaning-data-with-openrefine). 
 
 #### Week 2: Using Markdown to Write and Edit CollectionBuilder Pages
+During the second workshop session in this series, you will learn how to write text using Markdown to create web pages. We will explore how CollectionBuilder uses Jekyll to "translate" our markdown into HTML. By the end of the session, you will have created and modified the text of your website.
+
 - The week 2 student guides offer step-by-step instructions for completing all of the activities covered by the first workshop: [Understanding CollectionBuilder Pages](https://github.com/learn-static/collectionbuilder-workshop/blob/main/understanding_pages.md) and [Using Markdown to Write and Edit CollectionBuilder Pages](https://github.com/learn-static/collectionbuilder-workshop/blob/main/markdown.md). 
 
 ##### Additional Resources for Week 2:
@@ -36,6 +40,8 @@ Before class, be sure that you have the following materials:
 - This workshop mentions HTML in passing, but doesn't go into great detail. If you are interested in learning more about how HTML strutures web pages, consider exploring our asynchronous guide to HTML: [Learn Static HTML Module](https://github.com/learn-static/foundations-1-html).
 
 #### Week 3: Customizing your CollectionBuilder Project
+In the final session of the workshop you will learn how to edit the theme.yml (found in your repository's '_data/' directory) to customize the visualizations and home page of your project. In the second half of the workshop, we will explore how to customize the content included on the browse, map, data, and item pages of your site.
+
 - The Week 3 Student Guide, [Customizing your CollectionBuilder Project](https://github.com/learn-static/collectionbuilder-workshop/blob/main/customizing_project.md), offers step-by-step instructions for completing all of the activities covered by the first workshop. 
 
 ##### Additional Resources for Week 3:
