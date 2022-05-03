@@ -15,10 +15,11 @@ Also before we get started, if you don't have a Google account, [please create o
 1. Go to <https://github.com>
 2. Click the "Sign up" button
 3. Enter your email and create a username and password to complete the sign up process
+4. Be sure to "skip personalization" and choose a free account
 
-### Step 2. Copy a GitHub Repository
+### Step 2. Copy the CollectionBuilder Template (GitHub Repository)
 
-Copy code from another repository into your own and start editing it.
+Copy code from the CollectionBuilder-GH repository into your own and start editing it. This code forms the template from which you will build your project during this workshop.
 
 1. Make sure you're logged into your account on [GitHub](https://github.com)
 2. Navigate to the [collectionbuilder-gh](https://github.com/CollectionBuilder/collectionbuilder-gh) GitHub repository and click the green "Use This Template" button (appears on the right side above the code area)
@@ -103,7 +104,7 @@ You are now viewing your repository's history (all the commits that have ever be
 
 ### Step 7. Turn on GitHub Pages (Make this demo project a website!)
 
-Now it's time to turn on the webpage associated with this project.
+Now it's time to turn on the webpage associated with this project. This website is the digital project we will develop and update over the course of the workshop.
 
 1. On your repository's home page, locate and click the "Settings" link, which is the very top right menu item on the menu. 
 2. Scroll down on the vertical "Settings" Menu and select "Pages" (the last link in the "Code and Automation" section).
@@ -116,7 +117,7 @@ Now it's time to turn on the webpage associated with this project.
 
 ### Step 8. Explore the relationship between your repository and the website
 
-1. Open the link to the website in the "About" section of your repository in a new window or tab and explore the website.
+1. Open the link to the website in the "About" section of your repository in a new window or tab and explore the website. Note that it may take as little as 30 seconds or as much as 15 minutes for your website to deploy. Before it has deployed, you will see a 404 error message when you click the link.
 2. Returning to your repository, click into the objects folder: note the images, which correspond to the images on the website, and the readme.md file with instructions on adding images to your project.
 3. Click into the pages folder: note that the names of the markdown pages here correspond to the names of the main page on the website.
 4. Note that these markdown pages are not the final pages served by Jekyll. Rather, they instruct Jekyll on how to create the final html pages served by GitHub pages. You can see that final html by navigating to the website. Right click “view page source” to see the html that creates these web pages. 
@@ -157,11 +158,10 @@ author: Your Name
 metadata: senjafuda-metadata
 ```
 
-
 ### Step 10. Explore the website
 
-1. Notice that it takes some time to deploy.
-2. Check the website, discover there are only 8 images appearing, and that there are text encoding errors for the macron (diacritical mark over the o) in several romanized Japanese words. UTF-8, the encoding Google Sheets uses for saving our CSVs, includes encoding for macrons. However, as this material was cut and pasted, the encoding was lost somewhere along the way.
+1. Note that it may take as little as 30 seconds or as much as 15 minutes for your website to deploy. Before it has deployed, there will be a small yellow circle below and to the left of the green **Code** button in your repository. If an error occurs, a red **X** will appear. When the website has successfully deployed, you will see a green check mark.
+3. Check the website, discover there are only 8 images appearing, and that there are text encoding errors for the macron (diacritical mark over the o) in several romanized Japanese words. UTF-8, the encoding Google Sheets uses for saving our CSVs, includes encoding for macrons. However, as this material was cut and pasted, the encoding was lost somewhere along the way.
 
 ### Step 11. Fix the errors in your metadata. 
 
