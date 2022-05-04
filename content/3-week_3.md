@@ -47,4 +47,4 @@ LEARNING SEQUENCE OUTLINE
 
 
 **After Class**
-Students will be directed via a follow-up email to the resources listed on the [Student Materials](https://learn-static.github.io/collectionbuilder-workshop/content/student_materials.html) page.
+Students will be directed via a follow-up email to the resources listed on the [Student Materials](https://learn-static.github.io/collectionbuilder-workshop/content/student_materials.html) page, including the Week 3 Student Guide, [Customizing your CollectionBuilder Project](https://github.com/learn-static/collectionbuilder-workshop/blob/main/customizing_project.md) 
