@@ -35,12 +35,14 @@ LEARNING SEQUENCE OUTLINE
 
 | Estimated time | Topic/Material Covered | Activity/Delivery Method |
 | -------------- | --------------- | ----------- |
-| 1. 5 minutes   | Icebreaker   |         |
-| 2. 5 minutes   | Workshop Overview | 1. Review website structure, Markdown content <br>2.   |
-| 4. 5 minutes | Activity set-up  |  |
-| 5. 15 minutes  |  |  |
-| 5. 35 minutes  | Review Metadata? Or modify CSS? | TBD  |
-| 6. 5 minutes   | Final wrap-up and questions    | 3-2-1 exercise |
+| 1. 5 minutes   | Icebreaker   | 1. Possible icebreaker: ask participants to share their favorite music to work to. |
+| 2. 5 minutes   | Review of previous workshops | 1. Review how metadata drives website content, website structure, Markdown content |
+| 4. 5 minutes | Website Structure  | Introduce at a high level how the contents of the `_data` and `_layouts` folders control the website structure |
+| 5. 15 minutes  | Edit theme.yml | Walk participants through editing `theme.yml` file in the `_data` folder. 1. Edit home page image to add an image from the new collection 2. Mention Item Page Browser Buttons 3. Add "unknown" as a Subject stop word and note its effect on the word cloud. 4. Make Japan the center of the Maps page |
+| 5. 15 minutes  | Edit configuration csvs | Walk participants through editing `config` csvs. 1. ---- 2. -----. 3. Remove Map and Location pages from the menu bar. |
+| 6. 10 minutes| Edit Home Page | Introduce participants to the `_layouts` folder. 1. Remove `Time` and `Locations` cards from `home-infographic.html` |
+| 7. 25 minutes | Open work time | Opportunity for participants to begin work on their own custom project, or to continue to customize their existing project. |
+| 8. 10 minutes   | Final wrap-up and questions    | 3-2-1 exercise |
 {:.table .table-bordered}
 
 
